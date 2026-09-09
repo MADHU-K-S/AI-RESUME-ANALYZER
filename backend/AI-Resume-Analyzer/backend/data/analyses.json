@@ -1,0 +1,4602 @@
+[
+  {
+    "id": "6732df05a78f44449ac3830d22f3aefa",
+    "resume_id": "194146d6aba94f028549811fe7503da9",
+    "resume_name": "Resume.pdf",
+    "job_description": "java",
+    "job_role": "java",
+    "analyzed_at": "2026-08-13T18:00:33",
+    "ats_score": 38,
+    "result": {
+      "ats_score": 38,
+      "skill_score": 40,
+      "experience_score": 20,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 40,
+        "experience": 20,
+        "education": 50,
+        "keywords": 60,
+        "resume_quality": 85
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 40,
+          "evidence": "Java is listed under Technical Skills (Programming), but there are no projects, work experience, or code examples demonstrating practical Java usage."
+        }
+      ],
+      "recommendations": [
+        "Include specific Java projects or software development work to demonstrate practical proficiency beyond listing Java as a programming skill.",
+        "Detail specific Java frameworks, concepts, or tools (e.g., Spring Boot, OOP design principles, Maven/Gradle) if applying for software engineering roles requiring Java.",
+        "Realign the professional summary and project highlights toward core software development and Java engineering if targeting Java-focused positions, as the current resume focuses heavily on Data Analytics and Python."
+      ]
+    }
+  },
+  {
+    "id": "956502c48a964773913617a84cf85264",
+    "resume_id": "f2d3a2f0359e4de1ab22483a9da3890d",
+    "resume_name": "Resume.pdf",
+    "job_description": "java",
+    "job_role": "java",
+    "analyzed_at": "2026-08-13T18:02:41",
+    "ats_score": 85,
+    "result": {
+      "ats_score": 85,
+      "skill_score": 90,
+      "experience_score": 85,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 90,
+        "experience": 85,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 90
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 90,
+          "evidence": "Demonstrated solid Java experience through designing and optimizing backend microservices at TechCorp Solutions, building Java-based microservices in personal projects, and listing it as a core programming language."
+        }
+      ],
+      "recommendations": [
+        "Detail specific Java frameworks (such as Spring Boot, Hibernate, or Jakarta EE) used in your microservices to show deeper ecosystem expertise.",
+        "Include unit testing and mock frameworks specific to Java (e.g., JUnit, Mockito) within the Technical Skills or Experience section.",
+        "Highlight JVM-specific optimizations, memory management, or concurrency techniques utilized in your Java backend development."
+      ]
+    }
+  },
+  {
+    "id": "bd525af48a6241639e5e7871fea56e75",
+    "resume_id": "bdd6c67567724c65b1b60e6221c1fc15",
+    "resume_name": "Resume.pdf",
+    "job_description": "java",
+    "job_role": "java",
+    "analyzed_at": "2026-08-13T18:04:26",
+    "ats_score": 42,
+    "result": {
+      "ats_score": 42,
+      "skill_score": 40,
+      "experience_score": 20,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 40,
+        "experience": 20,
+        "education": 50,
+        "keywords": 50,
+        "resume_quality": 65
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 40,
+          "evidence": "Java is listed under Technical Skills (Languages), but there are no projects, professional experiences, or certifications demonstrating its application."
+        }
+      ],
+      "recommendations": [
+        "Include hands-on projects or practical coursework that explicitly utilize Java to demonstrate application building, object-oriented design, or data structure implementations.",
+        "Highlight standard Java libraries, frameworks (such as Spring Boot or Hibernate), and tools (such as Maven or Gradle) to show comprehensive knowledge of the Java ecosystem.",
+        "Align your career objective and project descriptions to emphasize software development in Java rather than focusing predominantly on Python-based AI/ML pipelines."
+      ]
+    }
+  },
+  {
+    "id": "8cacbc890ca845f28dc89e4d36ec2772",
+    "resume_id": "70307b940fe541a29774e20355d68c31",
+    "resume_name": "Resume.pdf",
+    "job_description": "java , python ,aws",
+    "job_role": "java , python ,aws",
+    "analyzed_at": "2026-08-13T18:06:35",
+    "ats_score": 85,
+    "result": {
+      "ats_score": 85,
+      "skill_score": 89,
+      "experience_score": 88,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 89,
+        "experience": 88,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 90
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "java",
+          "python",
+          "aws"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "java",
+          "python",
+          "aws"
+        ]
+      },
+      "required_skills": [
+        "Java",
+        "Python",
+        "AWS"
+      ],
+      "matched_skills": [
+        "Java",
+        "Python",
+        "AWS"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 90,
+          "evidence": "Extensive experience optimizing backend microservices in Java at TechCorp Solutions and implementing Java-based microservices in personal projects."
+        },
+        {
+          "skill": "Python",
+          "score": 90,
+          "evidence": "Used professionally to design backend microservices at TechCorp Solutions and built a Flask full-stack application in a personal project."
+        },
+        {
+          "skill": "AWS",
+          "score": 87,
+          "evidence": "Managed AWS infrastructure (EC2, S3, IAM) with 99.9% uptime at TechCorp Solutions and set up EC2 deployment with S3 backups in a personal project."
+        }
+      ],
+      "recommendations": [
+        "Specify the exact Java frameworks used (e.g., Spring Boot, Quarkus) when designing backend microservices.",
+        "Detail additional AWS services utilized (e.g., Lambda, CloudWatch, DynamoDB) to showcase broader cloud engineering expertise.",
+        "Expand on the Python ecosystem tooling or testing frameworks applied during development."
+      ]
+    }
+  },
+  {
+    "id": "82028bb504864aff8b5cce11b9f6a324",
+    "resume_id": "45c6b159b3cf4a5d916ea45691aa0d99",
+    "resume_name": "Resume.pdf",
+    "job_description": "java , python , aws",
+    "job_role": "java , python , aws",
+    "analyzed_at": "2026-08-13T18:15:38",
+    "ats_score": 85,
+    "result": {
+      "ats_score": 85,
+      "skill_score": 89,
+      "experience_score": 85,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 89,
+        "experience": 85,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 90
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "java",
+          "python",
+          "aws"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "java",
+          "python",
+          "aws"
+        ]
+      },
+      "required_skills": [
+        "java",
+        "python",
+        "aws"
+      ],
+      "matched_skills": [
+        "java",
+        "python",
+        "aws"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "java",
+          "score": 90,
+          "evidence": "Designed backend microservices with Java at TechCorp Solutions and integrated Java-based microservices in a Cloud-Native Task Manager project."
+        },
+        {
+          "skill": "python",
+          "score": 90,
+          "evidence": "Utilized Python for backend microservices optimization at TechCorp Solutions and developed a full-stack Flask application."
+        },
+        {
+          "skill": "aws",
+          "score": 88,
+          "evidence": "Managed AWS cloud infrastructure (EC2, S3, IAM) at TechCorp Solutions ensuring high availability and deployed personal projects on EC2 and S3."
+        }
+      ],
+      "recommendations": [
+        "Detail specific AWS architectural patterns or tools (e.g., Lambda, CloudWatch, ECS, or Terraform) used alongside EC2 and S3 to demonstrate deeper cloud engineering proficiency.",
+        "Include specific frameworks or frameworks/libraries used with Java (e.g., Spring Boot) to complement the mentioned Python (Flask) experience.",
+        "Add more quantifiable impact metrics related specifically to Python and Java implementations, such as latency reduction or resource cost optimization."
+      ]
+    }
+  },
+  {
+    "id": "580ce08e33654cedaeaa0e168721f31a",
+    "resume_id": "20c3cbb7fb1547608f279a3815390be4",
+    "resume_name": "Resume.pdf",
+    "job_description": "aws",
+    "job_role": "aws",
+    "analyzed_at": "2026-08-13T18:15:59",
+    "ats_score": 85,
+    "result": {
+      "ats_score": 85,
+      "skill_score": 90,
+      "experience_score": 85,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 90,
+        "experience": 85,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 90
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "AWS"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "AWS"
+        ]
+      },
+      "required_skills": [
+        "AWS"
+      ],
+      "matched_skills": [
+        "AWS"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "AWS",
+          "score": 90,
+          "evidence": "Extensive practical experience listed across skills, work history (TechCorp Solutions - deployed/managed infrastructure on EC2, S3), and personal projects (Cloud-Native Task Manager on EC2/S3)."
+        }
+      ],
+      "recommendations": [
+        "Include specific AWS certifications (e.g., AWS Certified Developer or Solutions Architect) to formally validate cloud capabilities.",
+        "Highlight additional AWS services used beyond EC2, S3, and IAM, such as Lambda, DynamoDB, ECS, or CloudFormation.",
+        "Elaborate on Infrastructure as Code (IaC) and specific AWS deployment pipelines utilized in work or personal projects."
+      ]
+    }
+  },
+  {
+    "id": "5cf466bd707a49e19d37bf8bfb76b369",
+    "resume_id": "7b0eb735b2264d029c112bebfac941ac",
+    "resume_name": "Resume.pdf",
+    "job_description": "mechanical engineering",
+    "job_role": "mechanical engineering",
+    "analyzed_at": "2026-08-13T18:32:50",
+    "ats_score": 10,
+    "result": {
+      "ats_score": 10,
+      "skill_score": 0,
+      "experience_score": 0,
+      "education_score": 20,
+      "score_breakdown": {
+        "skills": 0,
+        "experience": 0,
+        "education": 20,
+        "keywords": 0,
+        "resume_quality": 85
+      },
+      "keyword_analysis": {
+        "matched_keywords": [],
+        "missing_keywords": [
+          "mechanical engineering"
+        ],
+        "important_keywords": [
+          "mechanical engineering"
+        ]
+      },
+      "required_skills": [
+        "Mechanical Engineering"
+      ],
+      "matched_skills": [],
+      "missing_skills": [
+        "Mechanical Engineering"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Mechanical Engineering",
+          "score": 0,
+          "evidence": "No evidence of mechanical engineering coursework, projects, or professional experience found on the resume."
+        }
+      ],
+      "recommendations": [
+        "Align job application targets with software engineering, backend development, or cloud infrastructure roles that match your Computer Science background.",
+        "If pursuing a transition into Mechanical Engineering, complete relevant coursework or certifications in core subjects like Statics, Dynamics, Thermodynamics, and CAD design.",
+        "Highlight any embedded systems, robotics, or hardware-software integration projects to show transferable skills applicable to mechanical engineering teams."
+      ]
+    }
+  },
+  {
+    "id": "8f234dd044544838914a345e395bde6b",
+    "resume_id": "cbbf1ffc68bd44ce937df88205bbd74a",
+    "resume_name": "Resume.pdf",
+    "job_description": "java",
+    "job_role": "java",
+    "analyzed_at": "2026-08-13T18:36:39",
+    "ats_score": 90,
+    "result": {
+      "ats_score": 90,
+      "skill_score": 92,
+      "experience_score": 88,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 92,
+        "experience": 88,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 90
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 92,
+          "evidence": "Repeated strong evidence across professional experience (TechCorp Solutions microservices), personal projects (Cloud-Native Task Manager), and technical skills list."
+        }
+      ],
+      "recommendations": [
+        "Specify the exact Java versions, ecosystems, or frameworks used (e.g., Java 17, Spring Boot, Hibernate) to demonstrate specific framework proficiency.",
+        "Include relevant Java testing tools (such as JUnit or Mockito) and build automation tools (like Maven or Gradle) to show complete development lifecycle experience.",
+        "Highlight specific architectural patterns and performance tuning metrics tailored directly to Java backend services."
+      ]
+    }
+  },
+  {
+    "id": "e852a6db287e4f91923dd6e2536349e9",
+    "resume_id": "ca5d749fe8134e8eb70112be3fd8c3ee",
+    "resume_name": "Resume.pdf",
+    "job_description": "Write clean, fast code in languages like Python, Java, or JavaScript.Test and debug programs to fix errors.Work with product managers and designers to plan new features.Review code written by other team members.Update and improve existing software.Required Skills and QualificationsDegree in Computer Science, Software Engineering, or related field.Strong knowledge of coding languages and data structures.Experience with version control tools like Git.Good problem-solving and communication skills.Familiarity with Agile work methods",
+    "job_role": "Write clean, fast code in languages like Python, Java, or JavaScript.Test and de",
+    "analyzed_at": "2026-08-13T18:38:13",
+    "ats_score": 80,
+    "result": {
+      "ats_score": 80,
+      "skill_score": 61,
+      "experience_score": 82,
+      "education_score": 95,
+      "score_breakdown": {
+        "skills": 61,
+        "experience": 82,
+        "education": 95,
+        "keywords": 75,
+        "resume_quality": 90
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Python",
+          "Java",
+          "Data structures",
+          "Git",
+          "Code reviews",
+          "Computer Science degree"
+        ],
+        "missing_keywords": [
+          "JavaScript",
+          "Agile",
+          "Product managers",
+          "Designers"
+        ],
+        "important_keywords": [
+          "Python",
+          "Java",
+          "JavaScript",
+          "Data structures",
+          "Git",
+          "Agile",
+          "Code reviews",
+          "Testing",
+          "Computer Science degree"
+        ]
+      },
+      "required_skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "Data Structures",
+        "Git",
+        "Testing and Debugging",
+        "Code Review",
+        "Agile Methodology"
+      ],
+      "matched_skills": [
+        "Python",
+        "Java",
+        "Data Structures",
+        "Git",
+        "Testing and Debugging",
+        "Code Review"
+      ],
+      "missing_skills": [
+        "JavaScript",
+        "Agile Methodology"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "score": 85,
+          "evidence": "Extensive practical experience designing backend microservices with Python at TechCorp Solutions and building a Cloud-Native Task Manager project."
+        },
+        {
+          "skill": "Java",
+          "score": 85,
+          "evidence": "Demonstrated experience designing backend microservices in Java at TechCorp Solutions and building Java-based microservice projects."
+        },
+        {
+          "skill": "JavaScript",
+          "score": 0,
+          "evidence": "No mention or evidence of JavaScript found in the resume."
+        },
+        {
+          "skill": "Data Structures",
+          "score": 85,
+          "evidence": "Applied DSA principles at TechCorp Solutions to optimize query performance, built a C++ parsing project using DSA, and completed coursework at UC Berkeley."
+        },
+        {
+          "skill": "Git",
+          "score": 85,
+          "evidence": "Listed under core tools; actively used Git and GitHub across both professional roles and personal projects for version control and releases."
+        },
+        {
+          "skill": "Testing and Debugging",
+          "score": 65,
+          "evidence": "Wrote thorough unit tests at InnoTech Labs and maintained clean code standards."
+        },
+        {
+          "skill": "Code Review",
+          "score": 75,
+          "evidence": "Collaborated with cross-functional engineering teams using GitHub for code reviews at TechCorp Solutions."
+        },
+        {
+          "skill": "Agile Methodology",
+          "score": 10,
+          "evidence": "No explicit mention of Agile/Scrum workflows, though worked in collaborative cross-functional engineering teams."
+        }
+      ],
+      "recommendations": [
+        "Add evidence of JavaScript proficiency or build a small project using JavaScript/Node.js/React to satisfy the frontend/full-stack coding language requirement.",
+        "Explicitly mention familiarity with Agile work methods, such as Scrum, Sprint Planning, or daily standups, in the technical skills or work experience section.",
+        "Highlight experience collaborating specifically with product managers and UI/UX designers when describing past cross-functional project initiatives."
+      ]
+    }
+  },
+  {
+    "id": "9cd85d1626034fa3b06a60944df7f30f",
+    "resume_id": "3b27f462044a43b28b14cd32387b4eff",
+    "resume_name": "Resume.pdf",
+    "job_description": "Write clean, fast code in languages like Python, Java, or JavaScript.Test and debug programs to fix errors.Work with product managers and designers to plan new features.Review code written by other team members.Update and improve existing software.Required Skills and QualificationsDegree in Computer Science, Software Engineering, or related field.Strong knowledge of coding languages and data structures.Experience with version control tools like Git.Good problem-solving and communication skills.Familiarity with Agile work methods",
+    "job_role": "Write clean, fast code in languages like Python, Java, or JavaScript.Test and de",
+    "analyzed_at": "2026-08-13T18:39:10",
+    "ats_score": 58,
+    "result": {
+      "ats_score": 58,
+      "skill_score": 42,
+      "experience_score": 45,
+      "education_score": 95,
+      "score_breakdown": {
+        "skills": 42,
+        "experience": 45,
+        "education": 95,
+        "keywords": 55,
+        "resume_quality": 85
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Python",
+          "Java",
+          "Data Structures",
+          "Git",
+          "Problem Solving",
+          "Communication",
+          "Computer Science"
+        ],
+        "missing_keywords": [
+          "Agile",
+          "Testing",
+          "Debugging",
+          "Code Review",
+          "Software Engineering"
+        ],
+        "important_keywords": [
+          "Python",
+          "Java",
+          "Data Structures",
+          "Git",
+          "Agile",
+          "Testing",
+          "Debugging",
+          "Code Review",
+          "Computer Science"
+        ]
+      },
+      "required_skills": [
+        "Python",
+        "Java",
+        "Data Structures and Algorithms",
+        "Version Control (Git)",
+        "Testing and Debugging",
+        "Agile Work Methods",
+        "Code Review",
+        "Problem Solving",
+        "Communication"
+      ],
+      "matched_skills": [
+        "Python",
+        "Java",
+        "Data Structures and Algorithms",
+        "Version Control (Git)",
+        "Problem Solving",
+        "Communication"
+      ],
+      "missing_skills": [
+        "Testing and Debugging",
+        "Agile Work Methods",
+        "Code Review"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "score": 80,
+          "evidence": "Listed in skills section and used extensively across all three featured projects and internship."
+        },
+        {
+          "skill": "Java",
+          "score": 35,
+          "evidence": "Listed under programming languages in technical skills, but no practical project or experience evidence provided."
+        },
+        {
+          "skill": "Data Structures and Algorithms",
+          "score": 50,
+          "evidence": "Listed under Concepts (DSA) in technical skills and supported by a CS degree background."
+        },
+        {
+          "skill": "Version Control (Git)",
+          "score": 65,
+          "evidence": "Listed in technical skills under Git/GitHub and implicit across team projects."
+        },
+        {
+          "skill": "Testing and Debugging",
+          "score": 30,
+          "evidence": "Indirect evidence through testing machine learning pipelines during internship, but lacks general software unit testing/debugging details."
+        },
+        {
+          "skill": "Agile Work Methods",
+          "score": 0,
+          "evidence": "No evidence or mention of Agile, Scrum, or Kanban methodologies in the resume."
+        },
+        {
+          "skill": "Code Review",
+          "score": 0,
+          "evidence": "No mention of performing or participating in code reviews in projects or work experience."
+        },
+        {
+          "skill": "Problem Solving",
+          "score": 60,
+          "evidence": "Listed under Soft Skills and demonstrated through project achievements and model optimization."
+        },
+        {
+          "skill": "Communication",
+          "score": 55,
+          "evidence": "Listed in soft skills and supported by bullet point describing presenting findings to team during internship."
+        }
+      ],
+      "recommendations": [
+        "Tailor the objective and profile targeting general Software Engineering roles rather than focusing exclusively on AI/ML research.",
+        "Highlight software engineering fundamentals in projects, such as unit testing, debugging, code reviews, and software maintenance, alongside ML tasks.",
+        "Explicitly add familiarity with Agile/Scrum processes if experienced through academic projects or internship workflows."
+      ]
+    }
+  },
+  {
+    "id": "02c5378e776441fd8fecb912ab19e734",
+    "resume_id": "a8b6f90dfe66446590143f68408cd16b",
+    "resume_name": "Resume.pdf",
+    "job_description": "Degree in Computer Science, Software Engineering, or related field.Strong knowledge of coding languages and data structures.Experience with version control tools like Git.Good problem-solving and communication skills.Familiarity with Agile work method",
+    "job_role": "Degree in Computer Science, Software Engineering, or related field.Strong knowle",
+    "analyzed_at": "2026-08-13T18:47:48",
+    "ats_score": 81,
+    "result": {
+      "ats_score": 81,
+      "skill_score": 68,
+      "experience_score": 85,
+      "education_score": 95,
+      "score_breakdown": {
+        "skills": 68,
+        "experience": 85,
+        "education": 95,
+        "keywords": 80,
+        "resume_quality": 90
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Computer Science degree",
+          "Coding languages",
+          "Data structures",
+          "Git",
+          "Version control",
+          "Problem-solving",
+          "Communication skills"
+        ],
+        "missing_keywords": [
+          "Agile work method"
+        ],
+        "important_keywords": [
+          "Computer Science degree",
+          "Coding languages",
+          "Data structures",
+          "Git",
+          "Version control",
+          "Problem-solving",
+          "Communication skills",
+          "Agile work method"
+        ]
+      },
+      "required_skills": [
+        "Coding languages",
+        "Data structures",
+        "Git / Version control",
+        "Problem-solving skills",
+        "Communication skills",
+        "Agile work method"
+      ],
+      "matched_skills": [
+        "Coding languages",
+        "Data structures",
+        "Git / Version control",
+        "Problem-solving skills",
+        "Communication skills"
+      ],
+      "missing_skills": [
+        "Agile work method"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Coding languages",
+          "score": 90,
+          "evidence": "Proficient in Java, Python, C, and C++; actively built microservices, utility tools, and projects across these languages in professional and academic roles."
+        },
+        {
+          "skill": "Data structures",
+          "score": 85,
+          "evidence": "Studied DSA in coursework and applied principles to optimize backend query performance and build a high-performance C++ data parser."
+        },
+        {
+          "skill": "Git / Version control",
+          "score": 90,
+          "evidence": "Used Git and GitHub for version control, code reviews, automated deployments, and documentation management across multiple engineering roles."
+        },
+        {
+          "skill": "Problem-solving skills",
+          "score": 80,
+          "evidence": "Demonstrated problem-solving by improving backend microservices system throughput by 25% and developing memory-efficient text parsing tools."
+        },
+        {
+          "skill": "Communication skills",
+          "score": 60,
+          "evidence": "Collaborated with cross-functional engineering teams for code reviews and automated deployments, though explicit verbal/written communication accomplishments are limited."
+        },
+        {
+          "skill": "Agile work method",
+          "score": 0,
+          "evidence": "No mention of Agile, Scrum, Kanban, or related software development methodologies anywhere in the resume."
+        }
+      ],
+      "recommendations": [
+        "Explicitly add Agile software development experience (e.g., Scrum, sprint planning, daily standups) to your skills and work experience sections.",
+        "Highlight collaborative communication and team workflows directly in job bullet points to better demonstrate required communication skills.",
+        "Incorporate terms like 'Agile work method' and 'Agile environment' in the Professional Summary to immediately align with key job description criteria."
+      ]
+    }
+  },
+  {
+    "id": "74186174fa9d4d7f882ecf73730b85b3",
+    "resume_id": "766be73825074b9bb23db523bdd29688",
+    "resume_name": "Resume.pdf",
+    "job_description": "java , awas , sql",
+    "job_role": "java , awas , sql",
+    "analyzed_at": "2026-08-14T10:41:10",
+    "ats_score": 82,
+    "result": {
+      "ats_score": 82,
+      "skill_score": 79,
+      "experience_score": 85,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 79,
+        "experience": 85,
+        "education": 50,
+        "keywords": 85,
+        "resume_quality": 90
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java",
+          "AWS",
+          "SQL"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java",
+          "AWS",
+          "SQL"
+        ]
+      },
+      "required_skills": [
+        "Java",
+        "AWS",
+        "SQL"
+      ],
+      "matched_skills": [
+        "Java",
+        "AWS",
+        "SQL"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 88,
+          "evidence": "Extensive experience designing and optimizing Java backend microservices at TechCorp Solutions and developing Java-based microservices in personal projects."
+        },
+        {
+          "skill": "AWS",
+          "score": 85,
+          "evidence": "Hands-on production experience managing AWS cloud infrastructure (EC2, S3, IAM) with 99.9% uptime and deploying cloud-native applications."
+        },
+        {
+          "skill": "SQL",
+          "score": 65,
+          "evidence": "Listed under Technical Skills and referenced through DBMS principles and query performance optimization at TechCorp Solutions."
+        }
+      ],
+      "recommendations": [
+        "Elaborate on SQL experience by mentioning specific Relational Database Management Systems used (e.g., PostgreSQL, MySQL) and detailing complex query writing or schema design.",
+        "Include concrete metrics regarding database performance optimizations achieved using SQL at TechCorp Solutions.",
+        "Add specific details on AWS tools beyond EC2 and S3 (such as RDS or Lambda) to further highlight depth in cloud architecture."
+      ]
+    }
+  },
+  {
+    "id": "d768232ccc09445180bacec14c469f8d",
+    "resume_id": "0ed6eaabb2ee4b8291a69f96e5f3c6cd",
+    "resume_name": "Resume.pdf",
+    "job_description": "Responsibilities\nCollect, clean, and analyze structured and unstructured data.\nUse Python and SQL to process and analyze datasets.\nCreate interactive dashboards and reports using Power BI or Tableau.\nPerform Exploratory Data Analysis (EDA) and identify patterns and trends.\nWork with stakeholders to understand business requirements.\nPrepare data visualizations and communicate findings clearly.\nPerform data validation and quality checks.\nBuild and maintain data-processing workflows.\nCollaborate with data engineers and business teams.\nPresent analytical findings and recommendations to management.\nRequired Skills\nPython\nSQL\nPandas\nNumPy\nData Analysis\nExploratory Data Analysis (EDA)\nData Visualization\nPower BI or Tableau\nStatistics\nExcel\nDatabase fundamentals\nProblem-solving\nCommunication skills\nPreferred Skills\nMachine Learning fundamentals\nETL concepts\nPySpark\nGit/GitHub\nCloud platforms such as AWS or Azure\nEducation\nBachelor's degree in Computer Science, Information Technology, Data Science, Statistics, Mathematics, or a related field.\nExperience\n0–2 years of experience in data analysis.\nAcademic projects, internships, or personal data-analysis projects are considered valuable.\nWhat We Offer\nOpportunity to work on real-world datasets.\nMentorship from experienced data professionals.\nCareer growth opportunities.\nCollaborative working environment.",
+    "job_role": "Responsibilities",
+    "analyzed_at": "2026-08-14T10:42:31",
+    "ats_score": 42,
+    "result": {
+      "ats_score": 42,
+      "skill_score": 22,
+      "experience_score": 25,
+      "education_score": 95,
+      "score_breakdown": {
+        "skills": 22,
+        "experience": 25,
+        "education": 95,
+        "keywords": 30,
+        "resume_quality": 85
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Python",
+          "SQL",
+          "Database fundamentals",
+          "AWS",
+          "Git/GitHub",
+          "Problem-solving",
+          "Communication skills"
+        ],
+        "missing_keywords": [
+          "Pandas",
+          "NumPy",
+          "Data Analysis",
+          "Exploratory Data Analysis (EDA)",
+          "Data Visualization",
+          "Power BI",
+          "Tableau",
+          "Statistics",
+          "Excel",
+          "ETL",
+          "Dashboards"
+        ],
+        "important_keywords": [
+          "Python",
+          "SQL",
+          "Pandas",
+          "NumPy",
+          "Data Analysis",
+          "Exploratory Data Analysis (EDA)",
+          "Data Visualization",
+          "Power BI",
+          "Tableau",
+          "Statistics",
+          "Excel"
+        ]
+      },
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Exploratory Data Analysis (EDA)",
+        "Data Visualization",
+        "Power BI or Tableau",
+        "Statistics",
+        "Excel",
+        "Database fundamentals",
+        "Problem-solving",
+        "Communication skills"
+      ],
+      "matched_skills": [
+        "Python",
+        "SQL",
+        "Database fundamentals",
+        "Problem-solving",
+        "Communication skills"
+      ],
+      "missing_skills": [
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Exploratory Data Analysis (EDA)",
+        "Data Visualization",
+        "Power BI or Tableau",
+        "Statistics",
+        "Excel"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "score": 35,
+          "evidence": "Listed under technical skill languages, but no Python projects or data analysis experience demonstrated in bullets."
+        },
+        {
+          "skill": "SQL",
+          "score": 45,
+          "evidence": "Listed in skills and demonstrated via relational database projects (PostgreSQL, MySQL)."
+        },
+        {
+          "skill": "Pandas",
+          "score": 0,
+          "evidence": "No mention or evidence found in skills, projects, or experience."
+        },
+        {
+          "skill": "NumPy",
+          "score": 0,
+          "evidence": "No mention or evidence found in skills, projects, or experience."
+        },
+        {
+          "skill": "Data Analysis",
+          "score": 5,
+          "evidence": "No explicit data analysis experience or project work provided."
+        },
+        {
+          "skill": "Exploratory Data Analysis (EDA)",
+          "score": 0,
+          "evidence": "No mention or evidence of performing exploratory data analysis."
+        },
+        {
+          "skill": "Data Visualization",
+          "score": 0,
+          "evidence": "No mention of data visualization tools, reporting, or charting libraries."
+        },
+        {
+          "skill": "Power BI or Tableau",
+          "score": 0,
+          "evidence": "Neither Power BI nor Tableau is listed or referenced."
+        },
+        {
+          "skill": "Statistics",
+          "score": 10,
+          "evidence": "Inferred general quantitative background from CS degree, but no specific statistical analysis mentioned."
+        },
+        {
+          "skill": "Excel",
+          "score": 0,
+          "evidence": "No mention of Microsoft Excel or advanced spreadsheet manipulation."
+        },
+        {
+          "skill": "Database fundamentals",
+          "score": 75,
+          "evidence": "Strong web-development context evidence: normalized MongoDB schemas, PostgreSQL, MySQL database optimization, and query caching."
+        },
+        {
+          "skill": "Problem-solving",
+          "score": 60,
+          "evidence": "Listed under soft skills and supported by algorithmic accomplishments and full-stack project building."
+        },
+        {
+          "skill": "Communication skills",
+          "score": 50,
+          "evidence": "Listed in soft skills and briefly noted through Agile team collaboration."
+        }
+      ],
+      "recommendations": [
+        "Reframe experience and projects toward Data Analysis rather than Full Stack Web Development (e.g., replace web app projects with end-to-end data processing, EDA, or data pipeline projects).",
+        "Add core data science/analysis Python libraries to technical skills and projects, specifically Pandas, NumPy, and visualization libraries like Matplotlib/Seaborn.",
+        "Gain and showcase hands-on experience with business intelligence tools like Power BI or Tableau by creating interactive dashboards.",
+        "Highlight practical experience with data manipulation, data cleaning, Excel analysis, and statistical modeling in work experience or project bullet points."
+      ]
+    }
+  },
+  {
+    "id": "61b6c60e94ba4a08818a59c584da70c9",
+    "resume_id": "0b8c5d5531824beaaf96f890159d9abe",
+    "resume_name": "Resume.pdf",
+    "job_description": "Responsibilities\nCollect, clean, and analyze structured and unstructured data.\nUse Python and SQL to process and analyze datasets.\nCreate interactive dashboards and reports using Power BI or Tableau.\nPerform Exploratory Data Analysis (EDA) and identify patterns and trends.\nWork with stakeholders to understand business requirements.\nPrepare data visualizations and communicate findings clearly.\nPerform data validation and quality checks.\nBuild and maintain data-processing workflows.\nCollaborate with data engineers and business teams.\nPresent analytical findings and recommendations to management.\nRequired Skills\nPython\nSQL\nPandas\nNumPy\nData Analysis\nExploratory Data Analysis (EDA)\nData Visualization\nPower BI or Tableau\nStatistics\nExcel\nDatabase fundamentals\nProblem-solving\nCommunication skills\nPreferred Skills\nMachine Learning fundamentals\nETL concepts\nPySpark\nGit/GitHub\nCloud platforms such as AWS or Azure\nEducation\nBachelor's degree in Computer Science, Information Technology, Data Science, Statistics, Mathematics, or a related field.\nExperience\n0–2 years of experience in data analysis.\nAcademic projects, internships, or personal data-analysis projects are considered valuable.\nWhat We Offer\nOpportunity to work on real-world datasets.\nMentorship from experienced data professionals.\nCareer growth opportunities.\nCollaborative working environment.",
+    "job_role": "Responsibilities",
+    "analyzed_at": "2026-08-14T10:42:58",
+    "ats_score": 71,
+    "result": {
+      "ats_score": 71,
+      "skill_score": 52,
+      "experience_score": 70,
+      "education_score": 90,
+      "score_breakdown": {
+        "skills": 52,
+        "experience": 70,
+        "education": 90,
+        "keywords": 68,
+        "resume_quality": 75
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Python",
+          "SQL",
+          "Pandas",
+          "NumPy",
+          "Data Analysis",
+          "Exploratory Data Analysis",
+          "Data Visualization",
+          "Power BI",
+          "Statistics",
+          "Database fundamentals",
+          "Communication"
+        ],
+        "missing_keywords": [
+          "Excel",
+          "Tableau",
+          "Dashboards"
+        ],
+        "important_keywords": [
+          "Python",
+          "SQL",
+          "Pandas",
+          "NumPy",
+          "Data Analysis",
+          "EDA",
+          "Data Visualization",
+          "Power BI",
+          "Excel",
+          "Statistics"
+        ]
+      },
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Exploratory Data Analysis (EDA)",
+        "Data Visualization",
+        "Power BI or Tableau",
+        "Statistics",
+        "Excel",
+        "Database fundamentals",
+        "Problem-solving",
+        "Communication skills"
+      ],
+      "matched_skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Exploratory Data Analysis (EDA)",
+        "Data Visualization",
+        "Power BI or Tableau",
+        "Statistics",
+        "Database fundamentals",
+        "Problem-solving",
+        "Communication skills"
+      ],
+      "missing_skills": [
+        "Excel"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "score": 80,
+          "evidence": "Listed under technical skills; explicitly used across all three projects and listed in career objective."
+        },
+        {
+          "skill": "SQL",
+          "score": 65,
+          "evidence": "Listed under technical skills and supported by 'SQL for Data Science' certification, though not detailed in project bullet points."
+        },
+        {
+          "skill": "Pandas",
+          "score": 75,
+          "evidence": "Listed under technical skills and used in Project 1 (Crime Prediction Platform) for data preprocessing."
+        },
+        {
+          "skill": "NumPy",
+          "score": 40,
+          "evidence": "Listed in the technical skills section under Data; no explicit implementation details provided in experience or projects."
+        },
+        {
+          "skill": "Data Analysis",
+          "score": 60,
+          "evidence": "Demonstrated through internship experience bullet mentioning data cleaning, exploratory analysis, and ML pipeline development."
+        },
+        {
+          "skill": "Exploratory Data Analysis (EDA)",
+          "score": 65,
+          "evidence": "Explicitly mentioned in internship bullet point ('exploratory analysis') and implied through data cleaning/preprocessing in projects."
+        },
+        {
+          "skill": "Data Visualization",
+          "score": 60,
+          "evidence": "Matplotlib listed in skills; Flask dashboard developed in Project 1 for data visualization."
+        },
+        {
+          "skill": "Power BI or Tableau",
+          "score": 40,
+          "evidence": "Power BI is listed under Data skills, but no hands-on dashboard build or project evidence is provided."
+        },
+        {
+          "skill": "Statistics",
+          "score": 45,
+          "evidence": "Listed under technical concepts and supported by Computer Science (AI & ML) degree coursework."
+        },
+        {
+          "skill": "Excel",
+          "score": 0,
+          "evidence": "No evidence found in the resume."
+        },
+        {
+          "skill": "Database fundamentals",
+          "score": 50,
+          "evidence": "MySQL and MongoDB listed under Cloud/DB skills; supported by SQL coursework/certification."
+        },
+        {
+          "skill": "Problem-solving",
+          "score": 35,
+          "evidence": "Listed under Soft Skills section with basic context from ML model tuning in projects."
+        },
+        {
+          "skill": "Communication skills",
+          "score": 55,
+          "evidence": "Listed under Soft Skills and demonstrated by internship bullet point ('presenting findings to the team')."
+        }
+      ],
+      "recommendations": [
+        "Explicitly add Microsoft Excel to your resume and highlight practical experience with data cleaning, pivot tables, or functions, as Excel is a required core skill for this role.",
+        "Shift focus in your project bullet points from deep learning (LSTMs, CNNs) toward business-centric Data Analysis, EDA, and reporting using Power BI or Tableau.",
+        "Detail your SQL usage in your project or internship descriptions (e.g., writing complex queries, joins, aggregations) to show practical application beyond the certification.",
+        "Replace template placeholders (e.g., '[XX]%', '[N]k+') with real quantitative metrics to clearly demonstrate the impact of your analysis and model performance."
+      ]
+    }
+  },
+  {
+    "id": "8a5b5c39ed324498a3a9211873f53682",
+    "resume_id": "98e7e52936804d12943c9c62179bfd95",
+    "resume_name": "Resume.pdf",
+    "job_description": "Responsibilities\nCollect, clean, and analyze structured and unstructured data.\nUse Python and SQL to process and analyze datasets.\nCreate interactive dashboards and reports using Power BI or Tableau.\nPerform Exploratory Data Analysis (EDA) and identify patterns and trends.\nWork with stakeholders to understand business requirements.\nPrepare data visualizations and communicate findings clearly.\nPerform data validation and quality checks.\nBuild and maintain data-processing workflows.\nCollaborate with data engineers and business teams.\nPresent analytical findings and recommendations to management.\nRequired Skills\nPython\nSQL\nPandas\nNumPy\nData Analysis\nExploratory Data Analysis (EDA)\nData Visualization\nPower BI or Tableau\nStatistics\nExcel\nDatabase fundamentals\nProblem-solving\nCommunication skills\nPreferred Skills\nMachine Learning fundamentals\nETL concepts\nPySpark\nGit/GitHub\nCloud platforms such as AWS or Azure\nEducation\nBachelor's degree in Computer Science, Information Technology, Data Science, Statistics, Mathematics, or a related field.\nExperience\n0–2 years of experience in data analysis.\nAcademic projects, internships, or personal data-analysis projects are considered valuable.\nWhat We Offer\nOpportunity to work on real-world datasets.\nMentorship from experienced data professionals.\nCareer growth opportunities.\nCollaborative working environment.",
+    "job_role": "Responsibilities",
+    "analyzed_at": "2026-08-14T10:43:32",
+    "ats_score": 25,
+    "result": {
+      "ats_score": 25,
+      "skill_score": 13,
+      "experience_score": 20,
+      "education_score": 90,
+      "score_breakdown": {
+        "skills": 13,
+        "experience": 20,
+        "education": 90,
+        "keywords": 20,
+        "resume_quality": 75
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Computer Science",
+          "Machine Learning",
+          "Database fundamentals",
+          "GitHub"
+        ],
+        "missing_keywords": [
+          "Python",
+          "SQL",
+          "Pandas",
+          "NumPy",
+          "Power BI",
+          "Tableau",
+          "Exploratory Data Analysis",
+          "Data Visualization",
+          "Excel",
+          "Statistics"
+        ],
+        "important_keywords": [
+          "Python",
+          "SQL",
+          "Pandas",
+          "NumPy",
+          "Power BI",
+          "Tableau",
+          "Data Analysis",
+          "EDA",
+          "Data Visualization",
+          "Excel",
+          "Database fundamentals"
+        ]
+      },
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Exploratory Data Analysis (EDA)",
+        "Data Visualization",
+        "Power BI or Tableau",
+        "Statistics",
+        "Excel",
+        "Database fundamentals",
+        "Problem-solving",
+        "Communication skills"
+      ],
+      "matched_skills": [
+        "Database fundamentals",
+        "Problem-solving",
+        "Communication skills"
+      ],
+      "missing_skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Exploratory Data Analysis (EDA)",
+        "Data Visualization",
+        "Power BI or Tableau",
+        "Statistics",
+        "Excel"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "score": 0,
+          "evidence": "No mention of Python programming language anywhere in the resume."
+        },
+        {
+          "skill": "SQL",
+          "score": 15,
+          "evidence": "Listed DBMS in relevant coursework, but no direct experience with SQL query writing or database management."
+        },
+        {
+          "skill": "Pandas",
+          "score": 0,
+          "evidence": "No mention of the Pandas library in the resume."
+        },
+        {
+          "skill": "NumPy",
+          "score": 0,
+          "evidence": "No mention of the NumPy library in the resume."
+        },
+        {
+          "skill": "Data Analysis",
+          "score": 25,
+          "evidence": "Analyzed financial information during a Credit Analyst job simulation, but lacks dedicated technical data analysis projects."
+        },
+        {
+          "skill": "Exploratory Data Analysis (EDA)",
+          "score": 0,
+          "evidence": "No evidence or mention of exploratory data analysis methods or workflows."
+        },
+        {
+          "skill": "Data Visualization",
+          "score": 0,
+          "evidence": "No evidence of creating data charts, dashboards, or visual reports."
+        },
+        {
+          "skill": "Power BI or Tableau",
+          "score": 0,
+          "evidence": "Neither Power BI nor Tableau is listed or referenced."
+        },
+        {
+          "skill": "Statistics",
+          "score": 10,
+          "evidence": "No explicit statistics coursework or applied statistical analysis mentioned, beyond general AI/ML coursework."
+        },
+        {
+          "skill": "Excel",
+          "score": 0,
+          "evidence": "No mention of Microsoft Excel or spreadsheet analytical tools."
+        },
+        {
+          "skill": "Database fundamentals",
+          "score": 45,
+          "evidence": "Listed DBMS under relevant coursework for B.Tech CSE degree."
+        },
+        {
+          "skill": "Problem-solving",
+          "score": 40,
+          "evidence": "Demonstrated through analytical thinking in credit analysis simulation and security risk assessment labs."
+        },
+        {
+          "skill": "Communication skills",
+          "score": 40,
+          "evidence": "Prepared structured reports based on analytical findings during the credit analyst job simulation."
+        }
+      ],
+      "recommendations": [
+        "Realign resume focus: The current resume is heavily targeted toward Cybersecurity and SOC Analyst roles rather than Data Analyst positions.",
+        "Add essential data stack tools: Gain and explicitly showcase core required technical skills including Python, SQL, Pandas, NumPy, and Excel.",
+        "Build and showcase Data Analytics projects: Replace cybersecurity lab projects with hands-on projects involving dataset cleaning, Exploratory Data Analysis (EDA), and interactive dashboard creation using Power BI or Tableau.",
+        "Highlight statistical and database coursework: Expand on relevant academic work in DBMS, Statistics, and Data Science techniques to show technical foundation."
+      ]
+    }
+  },
+  {
+    "id": "ff346aec80614d1093a3838d926f648c",
+    "resume_id": "e9fa0710c52147fa8e38b559a9b5de25",
+    "resume_name": "Resume.pdf",
+    "job_description": "Responsibilities\nCollect, clean, and analyze structured and unstructured data.\nUse Python and SQL to process and analyze datasets.\nCreate interactive dashboards and reports using Power BI or Tableau.\nPerform Exploratory Data Analysis (EDA) and identify patterns and trends.\nWork with stakeholders to understand business requirements.\nPrepare data visualizations and communicate findings clearly.\nPerform data validation and quality checks.\nBuild and maintain data-processing workflows.\nCollaborate with data engineers and business teams.\nPresent analytical findings and recommendations to management.\nRequired Skills\nPython\nSQL\nPandas\nNumPy\nData Analysis\nExploratory Data Analysis (EDA)\nData Visualization\nPower BI or Tableau\nStatistics\nExcel\nDatabase fundamentals\nProblem-solving\nCommunication skills\nPreferred Skills\nMachine Learning fundamentals\nETL concepts\nPySpark\nGit/GitHub\nCloud platforms such as AWS or Azure\nEducation\nBachelor's degree in Computer Science, Information Technology, Data Science, Statistics, Mathematics, or a related field.\nExperience\n0–2 years of experience in data analysis.\nAcademic projects, internships, or personal data-analysis projects are considered valuable.\nWhat We Offer\nOpportunity to work on real-world datasets.\nMentorship from experienced data professionals.\nCareer growth opportunities.\nCollaborative working environment.",
+    "job_role": "Responsibilities",
+    "analyzed_at": "2026-08-14T10:50:35",
+    "ats_score": 73,
+    "result": {
+      "ats_score": 73,
+      "skill_score": 57,
+      "experience_score": 68,
+      "education_score": 85,
+      "score_breakdown": {
+        "skills": 57,
+        "experience": 68,
+        "education": 85,
+        "keywords": 72,
+        "resume_quality": 85
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Python",
+          "SQL",
+          "Pandas",
+          "NumPy",
+          "Data Analysis",
+          "Data Visualization",
+          "Statistics",
+          "Database fundamentals",
+          "ETL concepts",
+          "PySpark",
+          "Git/GitHub"
+        ],
+        "missing_keywords": [
+          "Power BI",
+          "Tableau",
+          "Exploratory Data Analysis (EDA)",
+          "Excel",
+          "Communication skills"
+        ],
+        "important_keywords": [
+          "Python",
+          "SQL",
+          "Data Analysis",
+          "EDA",
+          "Power BI",
+          "Tableau",
+          "Excel",
+          "Data Visualization",
+          "Statistics"
+        ]
+      },
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Exploratory Data Analysis (EDA)",
+        "Data Visualization",
+        "Power BI or Tableau",
+        "Statistics",
+        "Excel",
+        "Database fundamentals",
+        "Problem-solving",
+        "Communication skills"
+      ],
+      "matched_skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Data Visualization",
+        "Statistics",
+        "Database fundamentals",
+        "Problem-solving"
+      ],
+      "missing_skills": [
+        "Exploratory Data Analysis (EDA)",
+        "Power BI or Tableau",
+        "Excel",
+        "Communication skills"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "score": 82,
+          "evidence": "Listed under Programming skills; used in Credit Risk Analysis Dashboard and ETL Pipeline projects; holds 'Python for Data Science' certification."
+        },
+        {
+          "skill": "SQL",
+          "score": 80,
+          "evidence": "Listed under Programming skills; applied in Credit Risk Analysis Dashboard and ETL Pipeline projects for data processing and automated reporting."
+        },
+        {
+          "skill": "Pandas",
+          "score": 75,
+          "evidence": "Explicitly listed under technical libraries and used for data processing in Python project work."
+        },
+        {
+          "skill": "NumPy",
+          "score": 75,
+          "evidence": "Listed under technical libraries on resume."
+        },
+        {
+          "skill": "Data Analysis",
+          "score": 78,
+          "evidence": "Demonstrated through Credit Risk Analysis Dashboard project, financial analysis in Standard Chartered simulation, and B.Tech coursework."
+        },
+        {
+          "skill": "Exploratory Data Analysis (EDA)",
+          "score": 30,
+          "evidence": "Implicitly performed in statistical analysis for Credit Risk project, but the term 'Exploratory Data Analysis' or 'EDA' is not explicitly mentioned."
+        },
+        {
+          "skill": "Data Visualization",
+          "score": 75,
+          "evidence": "Listed Matplotlib and Seaborn libraries; built interactive Credit Risk Analysis Dashboard to visualize metrics."
+        },
+        {
+          "skill": "Power BI or Tableau",
+          "score": 0,
+          "evidence": "No mention of Power BI or Tableau anywhere in the resume."
+        },
+        {
+          "skill": "Statistics",
+          "score": 75,
+          "evidence": "Listed under Core Subjects; applied statistical analysis in the Credit Risk Analysis project."
+        },
+        {
+          "skill": "Excel",
+          "score": 0,
+          "evidence": "No explicit mention of Microsoft Excel or spreadsheet tools in the skills or project descriptions."
+        },
+        {
+          "skill": "Database fundamentals",
+          "score": 75,
+          "evidence": "DBMS listed under Core Subjects and supported by practical SQL usage across backend and ETL projects."
+        },
+        {
+          "skill": "Problem-solving",
+          "score": 60,
+          "evidence": "Mentioned in strengths section and supported by participation in hackathons and project work."
+        },
+        {
+          "skill": "Communication skills",
+          "score": 35,
+          "evidence": "Weakly implied through hackathon team collaboration and project descriptions, but no explicit leadership or presentation evidence provided."
+        }
+      ],
+      "recommendations": [
+        "Add explicit mention of Business Intelligence tools like Power BI or Tableau to your skills and create a small visualization project using them.",
+        "Include Microsoft Excel (advanced functions, pivot tables, lookup formulas) in your technical skills list as it is explicitly required by the job.",
+        "Incorporate the explicit term 'Exploratory Data Analysis (EDA)' into your project bullets where you performed statistical analysis and data discovery.",
+        "Highlight communication and stakeholder interaction experience, such as presenting project insights or documenting analytical findings."
+      ]
+    }
+  },
+  {
+    "id": "a083f8958b44401fbe2caaef322b4147",
+    "resume_id": "11a8387c20ae4c84a94eb246f814e9c0",
+    "resume_name": "AIML_resume.pdf",
+    "job_description": "java",
+    "analyzed_at": "2026-08-14T16:27:47",
+    "ats_score": 45,
+    "skill_score": 35,
+    "experience_score": 30,
+    "education_score": 50,
+    "result": {
+      "ats_score": 45,
+      "skill_score": 35,
+      "experience_score": 30,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 35,
+        "experience": 30,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 80
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 35,
+          "evidence": "Java is listed under Technical Skills (Languages), but there is no project or professional experience detailing its usage."
+        }
+      ],
+      "recommendations": [
+        "Highlight specific projects or assignments built using Java to demonstrate practical proficiency beyond a skill list item.",
+        "Specify relevant Java frameworks, build tools, or concepts (such as Spring Boot, Maven, or Object-Oriented Programming) in your skill breakdown or bullet points.",
+        "Tailor your career objective and project details to reflect core software engineering in Java rather than predominantly focusing on Python-based AI/ML."
+      ]
+    }
+  },
+  {
+    "id": "8ffd1cdee4fd4f5b9af898483f48b3d8",
+    "resume_id": "58434efa7e584912b124689a1fbe9616",
+    "resume_name": "Data_Analyst_Resume.pdf",
+    "job_description": "java",
+    "analyzed_at": "2026-08-14T16:28:12",
+    "ats_score": 45,
+    "skill_score": 35,
+    "experience_score": 25,
+    "education_score": 50,
+    "result": {
+      "ats_score": 45,
+      "skill_score": 35,
+      "experience_score": 25,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 35,
+        "experience": 25,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 85
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 35,
+          "evidence": "Java is explicitly listed under Programming in the Technical Skills section, but there are no projects or professional experience demonstrating its practical usage."
+        }
+      ],
+      "recommendations": [
+        "Add specific projects or practical applications that demonstrate hands-on experience using Java.",
+        "Mention relevant Java frameworks, libraries, or tools (e.g., Spring Boot, OOP concepts, JUnit) to strengthen the Java skill presentation.",
+        "Tailor the professional summary and career objective toward Java development rather than data analytics if targeting Java engineering roles."
+      ]
+    }
+  },
+  {
+    "id": "2e01e0351b4a43e382485ba6413ae758",
+    "resume_id": "d381971d6982413a85aba3f8171e2e8f",
+    "resume_name": "fake_resume.pdf",
+    "job_description": "java",
+    "analyzed_at": "2026-08-14T16:34:24",
+    "ats_score": 52,
+    "skill_score": 45,
+    "experience_score": 30,
+    "education_score": 50,
+    "result": {
+      "ats_score": 52,
+      "skill_score": 45,
+      "experience_score": 30,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 45,
+        "experience": 30,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 80
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 45,
+          "evidence": "Java is listed under Technical Skills (Languages) and Interview Focus, but projects primarily showcase Python, PySpark, and AI/ML tools."
+        }
+      ],
+      "recommendations": [
+        "Build and showcase hands-on projects specifically developed in Java (such as backend APIs using Spring Boot) to demonstrate functional application of the language.",
+        "Highlight specific Java ecosystem technologies, frameworks, and tools (e.g., Maven, Gradle, Spring Boot, JUnit) to strengthen Java core competency.",
+        "Detail specific OOP principles and Java design patterns applied in course projects or open-source work."
+      ]
+    }
+  },
+  {
+    "id": "b3f899ef27bc47af9e07c69f4617cc6c",
+    "resume_id": "60044e9ed63f4eee915dc36a56a4548d",
+    "resume_name": "Madhu_KS_Resume_AIML_Colored.pdf",
+    "job_description": "aws , sql ,git",
+    "analyzed_at": "2026-08-14T16:41:07",
+    "ats_score": 52,
+    "skill_score": 40,
+    "experience_score": 45,
+    "education_score": 50,
+    "result": {
+      "ats_score": 52,
+      "skill_score": 40,
+      "experience_score": 45,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 40,
+        "experience": 45,
+        "education": 50,
+        "keywords": 67,
+        "resume_quality": 80
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "SQL",
+          "Git"
+        ],
+        "missing_keywords": [
+          "AWS"
+        ],
+        "important_keywords": [
+          "AWS",
+          "SQL",
+          "Git"
+        ]
+      },
+      "required_skills": [
+        "AWS",
+        "SQL",
+        "Git"
+      ],
+      "matched_skills": [
+        "SQL",
+        "Git"
+      ],
+      "missing_skills": [
+        "AWS"
+      ],
+      "skill_matches": [
+        {
+          "skill": "AWS",
+          "score": 0,
+          "evidence": "No mention of AWS or Amazon Web Services in skills, projects, or certifications."
+        },
+        {
+          "skill": "SQL",
+          "score": 75,
+          "evidence": "Listed in core technical skills and utilized in the Credit Risk Analysis Dashboard project for automated data ingestion and reporting pipelines."
+        },
+        {
+          "skill": "Git",
+          "score": 45,
+          "evidence": "Listed under tools in technical skills, but lacks detailed project-level context or workflow explanation."
+        }
+      ],
+      "recommendations": [
+        "Gain hands-on experience with core AWS services (such as S3, EC2, RDS, or Lambda) and build projects demonstrating cloud deployment or cloud data pipelines.",
+        "Detail how Git was used in your projects, such as version control workflows, branching strategies, or collaboration via GitHub.",
+        "Elaborate on specific database management systems (e.g., PostgreSQL, MySQL) and query techniques used alongside SQL in your project descriptions."
+      ]
+    }
+  },
+  {
+    "id": "8178efa360a342e3b6a90cb2d16d5629",
+    "resume_id": "8871068589c44799b39a7b75c12b7230",
+    "resume_name": "Software_Developer_Resume.pdf",
+    "job_description": "java",
+    "analyzed_at": "2026-08-14T16:57:04",
+    "ats_score": 88,
+    "skill_score": 95,
+    "experience_score": 90,
+    "education_score": 50,
+    "result": {
+      "ats_score": 88,
+      "skill_score": 95,
+      "experience_score": 90,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 95,
+        "experience": 90,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 90
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 95,
+          "evidence": "Extensive professional and project experience, including designing backend microservices in Java at TechCorp Solutions, developing Java-based microservices for personal projects, and formal coursework."
+        }
+      ],
+      "recommendations": [
+        "Request a detailed job description to better align specific Java ecosystem tools and frameworks (such as Spring Boot, Hibernate, Maven, or Gradle).",
+        "Explicitly list specific Java frameworks, build tools, and testing libraries used in professional roles to provide deeper context beyond core Java.",
+        "Include metrics on Java code quality, test coverage, and specific performance benchmarks achieved during microservice optimization."
+      ]
+    }
+  },
+  {
+    "id": "1bbb153518f148378b8cff63d435075a",
+    "resume_id": "2d7108b97da74467847380e15fca7ade",
+    "resume_name": "Cybersecurity_Resume.pdf",
+    "job_description": "aws",
+    "analyzed_at": "2026-08-14T16:57:41",
+    "ats_score": 20,
+    "skill_score": 0,
+    "experience_score": 15,
+    "education_score": 50,
+    "result": {
+      "ats_score": 20,
+      "skill_score": 0,
+      "experience_score": 15,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 0,
+        "experience": 15,
+        "education": 50,
+        "keywords": 0,
+        "resume_quality": 75
+      },
+      "keyword_analysis": {
+        "matched_keywords": [],
+        "missing_keywords": [
+          "AWS"
+        ],
+        "important_keywords": [
+          "AWS"
+        ]
+      },
+      "required_skills": [
+        "AWS"
+      ],
+      "matched_skills": [],
+      "missing_skills": [
+        "AWS"
+      ],
+      "skill_matches": [
+        {
+          "skill": "AWS",
+          "score": 0,
+          "evidence": "No mention of AWS (Amazon Web Services) or cloud platform experience found in the resume."
+        }
+      ],
+      "recommendations": [
+        "Incorporate hands-on experience or projects using core AWS services, specifically focusing on cloud infrastructure and cloud security tools like AWS IAM, Security Groups, and CloudTrail.",
+        "Consider pursuing an AWS certification such as the AWS Certified Cloud Practitioner or AWS Certified Security - Specialty to validate cloud skills.",
+        "Add practical cloud security labs to your projects section (e.g., configuring secure VPCs, monitoring AWS CloudWatch logs, or performing cloud vulnerability assessments)."
+      ]
+    }
+  },
+  {
+    "id": "1be86738137c445a9e31253dcf3f4eff",
+    "resume_id": "6a1f64d61d8e48d99975bc27ca98f524",
+    "resume_name": "Software_Developer_Resume.pdf",
+    "job_description": "java , aws , sql , git ,github , database ,machine learning ,leetcode",
+    "analyzed_at": "2026-08-14T16:59:23",
+    "ats_score": 70,
+    "skill_score": 61,
+    "experience_score": 75,
+    "education_score": 50,
+    "result": {
+      "ats_score": 70,
+      "skill_score": 61,
+      "experience_score": 75,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 61,
+        "experience": 75,
+        "education": 50,
+        "keywords": 75,
+        "resume_quality": 90
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "java",
+          "aws",
+          "sql",
+          "git",
+          "github",
+          "database"
+        ],
+        "missing_keywords": [
+          "machine learning",
+          "leetcode"
+        ],
+        "important_keywords": [
+          "java",
+          "aws",
+          "sql",
+          "git",
+          "github",
+          "database",
+          "machine learning",
+          "leetcode"
+        ]
+      },
+      "required_skills": [
+        "Java",
+        "AWS",
+        "SQL",
+        "Git",
+        "GitHub",
+        "Database",
+        "Machine Learning",
+        "LeetCode"
+      ],
+      "matched_skills": [
+        "Java",
+        "AWS",
+        "SQL",
+        "Git",
+        "GitHub",
+        "Database"
+      ],
+      "missing_skills": [
+        "Machine Learning",
+        "LeetCode"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 85,
+          "evidence": "Demonstrated backend microservices development using Java at TechCorp Solutions and built Java-based microservices in a personal project."
+        },
+        {
+          "skill": "AWS",
+          "score": 85,
+          "evidence": "Managed AWS cloud infrastructure (EC2, S3, IAM) at TechCorp Solutions and deployed projects on AWS EC2 with automated S3 backups."
+        },
+        {
+          "skill": "SQL",
+          "score": 50,
+          "evidence": "Listed under technical skills and supported by DBMS query optimization work at TechCorp Solutions, though specific SQL dialects/queries are not detailed."
+        },
+        {
+          "skill": "Git",
+          "score": 85,
+          "evidence": "Used Git for version control, code reviews, and automated deployments in professional experience at TechCorp Solutions."
+        },
+        {
+          "skill": "GitHub",
+          "score": 85,
+          "evidence": "Utilized GitHub for version control and documentation at TechCorp Solutions, InnoTech Labs, and personal projects."
+        },
+        {
+          "skill": "Database",
+          "score": 70,
+          "evidence": "Applied DBMS principles to optimize query performance at TechCorp Solutions and completed relevant coursework at UC Berkeley."
+        },
+        {
+          "skill": "Machine Learning",
+          "score": 0,
+          "evidence": "No evidence or mention of Machine Learning skills, tools, or projects in the resume."
+        },
+        {
+          "skill": "LeetCode",
+          "score": 30,
+          "evidence": "Indirect evidence through strong focus on Data Structures & Algorithms (DSA), but no explicit mention of LeetCode or competitive programming."
+        }
+      ],
+      "recommendations": [
+        "Incorporate Machine Learning coursework, certifications, or hands-on projects using libraries like PyTorch or scikit-learn to fulfill the JD requirement.",
+        "Explicitly mention specific SQL database engines (e.g., PostgreSQL, MySQL) and detailed query design achievements in the work experience section.",
+        "Mention algorithmic problem-solving practice or LeetCode ratings/achievements directly if applicable to explicitly cover the LeetCode keyword.",
+        "Elaborate on database management tasks, such as relational schema design, indexing, or ORM usage to strengthen the Database and SQL skill matches."
+      ]
+    }
+  },
+  {
+    "id": "a2b11702c16c404089ec2ab32fdbfad0",
+    "resume_id": "bff1369446794ee68e39bf384ff0fd21",
+    "resume_name": "AIML_resume.pdf",
+    "job_description": "java , aws",
+    "analyzed_at": "2026-08-14T16:59:49",
+    "ats_score": 55,
+    "skill_score": 40,
+    "experience_score": 35,
+    "education_score": 50,
+    "result": {
+      "ats_score": 55,
+      "skill_score": 40,
+      "experience_score": 35,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 40,
+        "experience": 35,
+        "education": 50,
+        "keywords": 90,
+        "resume_quality": 85
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java",
+          "AWS"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java",
+          "AWS"
+        ]
+      },
+      "required_skills": [
+        "Java",
+        "AWS"
+      ],
+      "matched_skills": [
+        "Java",
+        "AWS"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 40,
+          "evidence": "Listed under Technical Skills (Languages), but lacks project or work experience bullet points demonstrating practical implementation."
+        },
+        {
+          "skill": "AWS",
+          "score": 40,
+          "evidence": "Listed under Technical Skills (Cloud/DB: AWS S3, EC2), but not referenced in project or internship descriptions."
+        }
+      ],
+      "recommendations": [
+        "Elaborate on Java usage in projects or experience bullet points to demonstrate practical software development experience beyond listing it in skills.",
+        "Add specific details on how AWS services (e.g., S3, EC2) were utilized in building, hosting, or deploying your applications or machine learning models.",
+        "Shift focus in project descriptions to highlight cloud infrastructure and backend software engineering alongside AI/ML concepts to better align with the job requirements."
+      ]
+    }
+  },
+  {
+    "id": "d00038288d084c0085ceb3f4f65e87ff",
+    "resume_id": "1b371459c82841858663d7a5d4a933a5",
+    "resume_name": "AIML_resume.pdf",
+    "job_description": "java",
+    "analyzed_at": "2026-08-14T17:14:31",
+    "ats_score": 40,
+    "skill_score": 35,
+    "experience_score": 20,
+    "education_score": 50,
+    "result": {
+      "ats_score": 40,
+      "skill_score": 35,
+      "experience_score": 20,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 35,
+        "experience": 20,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 75
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 35,
+          "evidence": "Java is listed under Technical Skills (Languages), but no projects, frameworks, or practical experience on the resume demonstrate its application."
+        }
+      ],
+      "recommendations": [
+        "Add explicit project details or coursework that demonstrate hands-on application of Java.",
+        "Mention relevant Java frameworks or ecosystem tools (e.g., Spring Boot, Maven, Gradle) if applicable.",
+        "Tailor the objective and experience sections to highlight general software engineering and Java development rather than exclusively Python-based AI/ML work."
+      ]
+    }
+  },
+  {
+    "id": "8e4dbb9c282549ed9348599d154a0150",
+    "resume_id": "b2d06568a3574b5e9e1577a03c2bf3c6",
+    "resume_name": "Software_Developer_Resume.pdf",
+    "job_description": "java , aws , datac=base , sql , git , github , machine learnign , leet cdeo , learning , javascript , css ,html ,oops",
+    "analyzed_at": "2026-08-14T17:28:01",
+    "ats_score": 58,
+    "skill_score": 45,
+    "experience_score": 65,
+    "education_score": 50,
+    "result": {
+      "ats_score": 58,
+      "skill_score": 45,
+      "experience_score": 65,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 45,
+        "experience": 65,
+        "education": 50,
+        "keywords": 50,
+        "resume_quality": 90
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java",
+          "AWS",
+          "SQL",
+          "Git",
+          "GitHub",
+          "OOP"
+        ],
+        "missing_keywords": [
+          "Machine Learning",
+          "LeetCode",
+          "JavaScript",
+          "CSS",
+          "HTML"
+        ],
+        "important_keywords": [
+          "Java",
+          "AWS",
+          "Database",
+          "SQL",
+          "Git",
+          "GitHub",
+          "Machine Learning",
+          "LeetCode",
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "OOP"
+        ]
+      },
+      "required_skills": [
+        "Java",
+        "AWS",
+        "Database",
+        "SQL",
+        "Git",
+        "GitHub",
+        "Machine Learning",
+        "LeetCode",
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Object-Oriented Programming (OOP)"
+      ],
+      "matched_skills": [
+        "Java",
+        "AWS",
+        "Database",
+        "SQL",
+        "Git",
+        "GitHub",
+        "Object-Oriented Programming (OOP)"
+      ],
+      "missing_skills": [
+        "Machine Learning",
+        "LeetCode",
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 88,
+          "evidence": "Demonstrated strong experience designing microservices at TechCorp Solutions and developing task manager projects using Java."
+        },
+        {
+          "skill": "AWS",
+          "score": 85,
+          "evidence": "Managed cloud infrastructure (EC2, S3, IAM) at TechCorp Solutions and deployed projects on AWS EC2."
+        },
+        {
+          "skill": "Database",
+          "score": 75,
+          "evidence": "Applied DBMS concepts to optimize query performance at TechCorp Solutions and completed core DBMS coursework."
+        },
+        {
+          "skill": "SQL",
+          "score": 70,
+          "evidence": "Listed as a technical language skill and supported by DBMS query optimization work at TechCorp."
+        },
+        {
+          "skill": "Git",
+          "score": 80,
+          "evidence": "Collaborated using Git for version control and code reviews at TechCorp Solutions."
+        },
+        {
+          "skill": "GitHub",
+          "score": 85,
+          "evidence": "Managed repositories, documentation, and releases on GitHub across multiple roles and personal projects."
+        },
+        {
+          "skill": "Machine Learning",
+          "score": 0,
+          "evidence": "No evidence or mention of Machine Learning found in the resume."
+        },
+        {
+          "skill": "LeetCode",
+          "score": 10,
+          "evidence": "Indirect support through Data Structures & Algorithms (DSA) coursework and C++ parser project, but no direct mention."
+        },
+        {
+          "skill": "JavaScript",
+          "score": 0,
+          "evidence": "No evidence or mention of JavaScript found in the resume."
+        },
+        {
+          "skill": "CSS",
+          "score": 0,
+          "evidence": "No evidence or mention of CSS found in the resume."
+        },
+        {
+          "skill": "HTML",
+          "score": 0,
+          "evidence": "No evidence or mention of HTML found in the resume."
+        },
+        {
+          "skill": "Object-Oriented Programming (OOP)",
+          "score": 50,
+          "evidence": "Listed under Core Subjects in technical skills section."
+        }
+      ],
+      "recommendations": [
+        "Incorporate web development technologies (HTML, CSS, JavaScript) into projects or experience descriptions to satisfy web stack requirements.",
+        "Highlight any experience or exposure to Machine Learning concepts or projects if applicable.",
+        "Explicitly mention practice with algorithmic problem solving or platforms like LeetCode alongside existing DSA skills.",
+        "Provide specific achievements showing practical application of Object-Oriented Programming (OOP) design patterns within Java and C++ work experience."
+      ]
+    }
+  },
+  {
+    "id": "455604389ead4e63b3365fa26e2c040b",
+    "resume_id": "53cd7514fd1b44699aa75eee43056020",
+    "resume_name": "Software_Developer_Resume.pdf",
+    "job_description": "java",
+    "analyzed_at": "2026-08-14T18:24:20",
+    "ats_score": 82,
+    "skill_score": 90,
+    "experience_score": 85,
+    "education_score": 50,
+    "result": {
+      "ats_score": 82,
+      "skill_score": 90,
+      "experience_score": 85,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 90,
+        "experience": 85,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 90
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 90,
+          "evidence": "Extensive practical experience using Java to design and optimize backend microservices at TechCorp Solutions and in personal full-stack projects."
+        }
+      ],
+      "recommendations": [
+        "Detail specific Java frameworks used (such as Spring Boot, Hibernate, or Quarkus) to showcase modern backend ecosystem proficiency.",
+        "Include references to Java build tools and testing libraries like Maven, Gradle, and JUnit to demonstrate end-to-end development standards.",
+        "Specify the exact Java versions worked with (e.g., Java 11, Java 17, Java 21) across past professional roles and projects."
+      ]
+    }
+  },
+  {
+    "id": "eec0e16e95dc4d2f9c5260d93f31fa94",
+    "resume_id": "0a9da3ee751d4439a11a2098c8a6aa80",
+    "resume_name": "Data_Analyst_Resume.pdf",
+    "job_description": "java python",
+    "analyzed_at": "2026-08-14T18:26:29",
+    "ats_score": 66,
+    "skill_score": 59,
+    "experience_score": 50,
+    "education_score": 50,
+    "result": {
+      "ats_score": 66,
+      "skill_score": 59,
+      "experience_score": 50,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 59,
+        "experience": 50,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 85
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java",
+          "Python"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java",
+          "Python"
+        ]
+      },
+      "required_skills": [
+        "Java",
+        "Python"
+      ],
+      "matched_skills": [
+        "Java",
+        "Python"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 40,
+          "evidence": "Listed under Programming skills in the resume, but lacks direct project or work experience demonstration."
+        },
+        {
+          "skill": "Python",
+          "score": 78,
+          "evidence": "Extensively highlighted in the professional summary, technical skills, and demonstrated across projects like ETL Pipeline Development and Credit Risk Analysis."
+        }
+      ],
+      "recommendations": [
+        "Add project descriptions or practical examples demonstrating hands-on usage of Java, as it is currently only listed as a keyword.",
+        "Elaborate on core programming methodologies and software engineering practices used in both Python and Java projects.",
+        "Provide direct links or specific GitHub repository details showcasing codebase quality for Python and Java applications."
+      ]
+    }
+  },
+  {
+    "id": "f5dd2d2170474cc1a33d334e039903e8",
+    "resume_id": "ba7ef9d072dc4a4493724f4e481af2b2",
+    "resume_name": "Software_Developer_Resume.pdf",
+    "job_description": "java",
+    "analyzed_at": "2026-08-16T19:45:18",
+    "ats_score": 82,
+    "skill_score": 88,
+    "experience_score": 85,
+    "education_score": 50,
+    "result": {
+      "ats_score": 82,
+      "skill_score": 88,
+      "experience_score": 85,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 88,
+        "experience": 85,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 90
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 88,
+          "evidence": "Designed and optimized backend microservices using Java at TechCorp Solutions, built Java-based microservices for personal projects, and listed as a core language."
+        }
+      ],
+      "recommendations": [
+        "Explicitly detail specific Java frameworks (such as Spring Boot or Hibernate) used during microservices development at TechCorp Solutions.",
+        "Highlight core Java concepts (e.g., multithreading, JVM tuning, stream API) within your experience bullet points to demonstrate deeper technical expertise.",
+        "Tailor the professional summary to focus prominently on Java software engineering capabilities."
+      ]
+    }
+  },
+  {
+    "id": "88d932b823be4280b9783f44707fa094",
+    "resume_id": "a7371228d86d42409cebf5bbf03dd1dc",
+    "resume_name": "Software_Developer_Resume.pdf",
+    "job_description": "python",
+    "analyzed_at": "2026-08-16T19:47:17",
+    "ats_score": 82,
+    "skill_score": 88,
+    "experience_score": 85,
+    "education_score": 50,
+    "result": {
+      "ats_score": 82,
+      "skill_score": 88,
+      "experience_score": 85,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 88,
+        "experience": 85,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 90
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "python"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "python"
+        ]
+      },
+      "required_skills": [
+        "Python"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "score": 88,
+          "evidence": "Demonstrated practical experience using Python for backend microservices at TechCorp Solutions and developing a full-stack Flask task manager application."
+        }
+      ],
+      "recommendations": [
+        "Elaborate on specific Python frameworks, libraries, and tools used (e.g., Django, FastAPI, PyTest, Pandas) beyond Flask.",
+        "Include metrics showcasing performance improvements achieved specifically using Python applications.",
+        "Add details about Python coding standards, testing practices, or environment management (e.g., virtualenv, Poetry) used in professional settings."
+      ]
+    }
+  },
+  {
+    "id": "9cad36412ee34dfcb3d2ab9d24cd4077",
+    "resume_id": "842c37806504449e9c1e73ff024c3689",
+    "resume_name": "Data_Analyst_Resume.pdf",
+    "job_description": "python , java ,aws , sql , git",
+    "analyzed_at": "2026-08-16T19:48:23",
+    "ats_score": 60,
+    "skill_score": 49,
+    "experience_score": 45,
+    "education_score": 50,
+    "result": {
+      "ats_score": 60,
+      "skill_score": 49,
+      "experience_score": 45,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 49,
+        "experience": 45,
+        "education": 50,
+        "keywords": 80,
+        "resume_quality": 85
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "python",
+          "java",
+          "sql",
+          "git"
+        ],
+        "missing_keywords": [
+          "aws"
+        ],
+        "important_keywords": [
+          "python",
+          "java",
+          "aws",
+          "sql",
+          "git"
+        ]
+      },
+      "required_skills": [
+        "python",
+        "java",
+        "aws",
+        "sql",
+        "git"
+      ],
+      "matched_skills": [
+        "python",
+        "java",
+        "sql",
+        "git"
+      ],
+      "missing_skills": [
+        "aws"
+      ],
+      "skill_matches": [
+        {
+          "skill": "python",
+          "score": 80,
+          "evidence": "Listed under Programming Skills and demonstrated through multiple projects including Credit Risk Analysis Dashboard, ETL Pipeline Development, and AI Resume Analyzer."
+        },
+        {
+          "skill": "java",
+          "score": 40,
+          "evidence": "Listed under Programming Skills, but lacks project context or detailed application in the work experience section."
+        },
+        {
+          "skill": "aws",
+          "score": 0,
+          "evidence": "No mention of AWS or cloud services found anywhere in the resume."
+        },
+        {
+          "skill": "sql",
+          "score": 75,
+          "evidence": "Listed under Technical Skills and DBMS coursework; demonstrated in project work involving SQL-based ETL workflows and relational querying."
+        },
+        {
+          "skill": "git",
+          "score": 50,
+          "evidence": "Listed under Tools (Git, GitHub) and GitHub profile link provided, though specific version control workflows in projects are not elaborated."
+        }
+      ],
+      "recommendations": [
+        "Gain hands-on experience with core AWS services (e.g., S3, EC2, Lambda) and build a cloud-hosted project to bridge the critical missing AWS requirement.",
+        "Provide specific project bullet points demonstrating Java development or backend engineering to strengthen the evidence for Java proficiency.",
+        "Detail how Git and GitHub were used in project workflows (e.g., version control, branching, collaboration) rather than just listing them in the tools section."
+      ]
+    }
+  },
+  {
+    "id": "d637ec2b21d540bfb82c998d0b0b23a5",
+    "resume_id": "abcc4cbe26ab45debd17de61bbada062",
+    "resume_name": "AIML_resume.pdf",
+    "job_description": "java",
+    "analyzed_at": "2026-08-16T19:48:39",
+    "ats_score": 42,
+    "skill_score": 40,
+    "experience_score": 20,
+    "education_score": 50,
+    "result": {
+      "ats_score": 42,
+      "skill_score": 40,
+      "experience_score": 20,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 40,
+        "experience": 20,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 70
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 40,
+          "evidence": "Java is listed under Technical Skills (Languages), but all detailed projects and experience focus exclusively on Python and Machine Learning stack."
+        }
+      ],
+      "recommendations": [
+        "Incorporate specific Java-based projects or enterprise frameworks (such as Spring Boot, Hibernate, or Java EE) to demonstrate practical development experience in Java.",
+        "Add bullet points detailing object-oriented programming, data structures, or software design patterns implemented using Java in academic or practical settings.",
+        "Complete all template placeholders (e.g., [YOUR NAME], [XX]%, [Company Name]) with concrete details and actual metrics to present a polished resume."
+      ]
+    }
+  },
+  {
+    "id": "495d3d6a404c465c821a6a7ebb1ac628",
+    "resume_id": "9f2865d7c16e476785a49d51cc0234e1",
+    "resume_name": "Software_Developer_Resume.pdf",
+    "job_description": "### Software Developer\n\nWe are looking for a Software Developer to design, develop, test, and maintain reliable software applications. The candidate should have a good understanding of programming concepts, data structures, databases, and software development practices.\n\n**Responsibilities:**\n\n* Develop and maintain web and software applications.\n* Write clean, efficient, and reusable code.\n* Design and integrate APIs and database systems.\n* Test applications, identify bugs, and fix technical issues.\n* Work with team members to understand requirements and deliver solutions.\n* Participate in code reviews and improve application performance.\n* Maintain technical documentation and follow software development best practices.\n\n**Requirements:**\n\n* Strong knowledge of programming languages such as Python, Java, JavaScript, or similar.\n* Basic knowledge of HTML, CSS, and web development.\n* Understanding of SQL and database concepts.\n* Knowledge of Git and version control.\n* Good problem-solving and debugging skills.\n* Ability to work independently as well as in a team.\n* A degree in Computer Science, Software Engineering, or a related field is preferred.",
+    "analyzed_at": "2026-08-18T14:51:31",
+    "ats_score": 60,
+    "skill_score": 57,
+    "experience_score": 60,
+    "education_score": 40,
+    "result": {
+      "ats_score": 60,
+      "skill_score": 57,
+      "experience_score": 60,
+      "education_score": 40,
+      "matched_skills": [
+        "python",
+        "java",
+        "sql",
+        "git"
+      ],
+      "missing_skills": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "required_skills": [
+        "python",
+        "java",
+        "javascript",
+        "sql",
+        "html",
+        "css",
+        "git"
+      ],
+      "recommendations": [
+        "Add relevant missing skills only if you genuinely have experience with them: javascript, html, css.",
+        "Use important terms from the job description naturally in your summary, skills, and project bullets.",
+        "Make your degree, branch, and graduation details easy for ATS systems to identify."
+      ],
+      "skill_matches": [
+        {
+          "skill": "python",
+          "score": 100,
+          "evidence": "Found in resume."
+        },
+        {
+          "skill": "java",
+          "score": 100,
+          "evidence": "Found in resume."
+        },
+        {
+          "skill": "javascript",
+          "score": 0,
+          "evidence": "Not found in resume."
+        },
+        {
+          "skill": "sql",
+          "score": 100,
+          "evidence": "Found in resume."
+        },
+        {
+          "skill": "html",
+          "score": 0,
+          "evidence": "Not found in resume."
+        },
+        {
+          "skill": "css",
+          "score": 0,
+          "evidence": "Not found in resume."
+        },
+        {
+          "skill": "git",
+          "score": 100,
+          "evidence": "Found in resume."
+        }
+      ],
+      "keyword_analysis": {
+        "matched_keywords": [
+          "python",
+          "java",
+          "sql",
+          "git"
+        ],
+        "missing_keywords": [
+          "javascript",
+          "html",
+          "css"
+        ],
+        "important_keywords": [
+          "python",
+          "java",
+          "javascript",
+          "sql",
+          "html",
+          "css",
+          "git"
+        ]
+      },
+      "score_breakdown": {
+        "skills": 57,
+        "experience": 60,
+        "education": 40,
+        "keywords": 57,
+        "resume_quality": 100
+      },
+      "analysis_mode": "local_fallback",
+      "gemini_error": "Gemini gemini-3.6-flash HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    }
+  },
+  {
+    "id": "02f5294bd9b24493b924160c0fd3b368",
+    "resume_id": "11f40037fa094088ab6f2a5fd3a05ecd",
+    "resume_name": "Software_Developer_Resume.pdf",
+    "job_description": "### Software Developer\n\nWe are looking for a Software Developer to design, develop, test, and maintain reliable software applications. The candidate should have a good understanding of programming concepts, data structures, databases, and software development practices.\n\n**Responsibilities:**\n\n* Develop and maintain web and software applications.\n* Write clean, efficient, and reusable code.\n* Design and integrate APIs and database systems.\n* Test applications, identify bugs, and fix technical issues.\n* Work with team members to understand requirements and deliver solutions.\n* Participate in code reviews and improve application performance.\n* Maintain technical documentation and follow software development best practices.\n\n**Requirements:**\n\n* Strong knowledge of programming languages such as Python, Java, JavaScript, or similar.\n* Basic knowledge of HTML, CSS, and web development.\n* Understanding of SQL and database concepts.\n* Knowledge of Git and version control.\n* Good problem-solving and debugging skills.\n* Ability to work independently as well as in a team.\n* A degree in Computer Science, Software Engineering, or a related field is preferred.",
+    "analyzed_at": "2026-08-18T14:52:29",
+    "ats_score": 78,
+    "skill_score": 60,
+    "experience_score": 85,
+    "education_score": 95,
+    "result": {
+      "ats_score": 78,
+      "skill_score": 60,
+      "experience_score": 85,
+      "education_score": 95,
+      "score_breakdown": {
+        "skills": 60,
+        "experience": 85,
+        "education": 95,
+        "keywords": 75,
+        "resume_quality": 90
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "Database",
+          "Code reviews",
+          "Technical documentation",
+          "Computer Science"
+        ],
+        "missing_keywords": [
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "Web development"
+        ],
+        "important_keywords": [
+          "Python",
+          "Java",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "SQL",
+          "Git",
+          "Web development",
+          "APIs",
+          "Database",
+          "Code reviews",
+          "Computer Science"
+        ]
+      },
+      "required_skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "HTML & CSS",
+        "SQL & Database Concepts",
+        "Git & Version Control",
+        "API Integration",
+        "Debugging & Testing"
+      ],
+      "matched_skills": [
+        "Python",
+        "Java",
+        "SQL & Database Concepts",
+        "Git & Version Control",
+        "API Integration",
+        "Debugging & Testing"
+      ],
+      "missing_skills": [
+        "JavaScript",
+        "HTML & CSS"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "score": 88,
+          "evidence": "Extensive experience building backend microservices at TechCorp Solutions, Flask personal project, and listed in core technical skills."
+        },
+        {
+          "skill": "Java",
+          "score": 88,
+          "evidence": "Used in backend microservices at TechCorp Solutions, mentioned in personal projects, and featured prominently in technical skills."
+        },
+        {
+          "skill": "JavaScript",
+          "score": 0,
+          "evidence": "No mention of JavaScript found in work experience, projects, or skills section."
+        },
+        {
+          "skill": "HTML & CSS",
+          "score": 0,
+          "evidence": "No evidence of HTML or CSS experience found on the resume."
+        },
+        {
+          "skill": "SQL & Database Concepts",
+          "score": 80,
+          "evidence": "Listed SQL and DBMS under skills; applied database principles and query optimization at TechCorp Solutions and coursework at UC Berkeley."
+        },
+        {
+          "skill": "Git & Version Control",
+          "score": 90,
+          "evidence": "Used for code reviews, version control, and repository management at both TechCorp Solutions and InnoTech Labs, as well as personal projects."
+        },
+        {
+          "skill": "API Integration",
+          "score": 70,
+          "evidence": "Demonstrated through backend microservices development at TechCorp Solutions and building Flask backend applications."
+        },
+        {
+          "skill": "Debugging & Testing",
+          "score": 65,
+          "evidence": "Written unit tests at InnoTech Labs and performed system optimization/query performance tuning at TechCorp Solutions."
+        }
+      ],
+      "recommendations": [
+        "Incorporate front-end technologies such as JavaScript, HTML, and CSS into your project or skills section to fully align with the job's web development requirements.",
+        "Explicitly mention API design/integration terms (e.g., RESTful APIs, JSON endpoints) in work experience or projects to directly address the responsibility listed in the job description.",
+        "Detail specific testing frameworks (e.g., JUnit, PyTest) and debugging tools used during software development to strengthen evidence for software testing skills."
+      ]
+    }
+  },
+  {
+    "id": "afacf87135f9471f90e49b6078010da3",
+    "resume_id": "b8a65984c83f4c1bbaedd6f675c9b7eb",
+    "resume_name": "fake_resume.pdf",
+    "job_description": "java",
+    "analyzed_at": "2026-08-18T15:24:51",
+    "analysis_source": "Gemini",
+    "ats_score": 35,
+    "skill_score": 60,
+    "experience_score": 30,
+    "education_score": 50,
+    "result": {
+      "ats_score": 35,
+      "skill_score": 60,
+      "experience_score": 30,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 60,
+        "experience": 30,
+        "education": 50,
+        "keywords": 30,
+        "resume_quality": 50
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [
+          "Spring Boot",
+          "Microservices",
+          "OOP",
+          "Enterprise Software"
+        ],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 60,
+          "evidence": "Listed under Technical Skills as a programming language, though no major Java-specific projects or enterprise frameworks are detailed."
+        }
+      ],
+      "recommendations": [
+        "Highlight Java-specific projects, frameworks (like Spring Boot), and enterprise experience since the job description focuses heavily on Java.",
+        "Add more details regarding object-oriented design and backend development using Java.",
+        "Include specific quantifiable achievements related to Java application development."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  },
+  {
+    "id": "b88fedbf6ce44fa180ec5a23922afdb2",
+    "resume_id": "a47dff46227149bab432155af17b5df0",
+    "resume_name": "Software_Developer_Resume.pdf",
+    "job_description": "Python\nSQL\nPandas\nNumPy\nData Analysis\nExploratory Data Analysis (EDA)\nData Visualization\nPower BI or Tableau\nStatistics\nExcel\nDatabase fundamentals\nProblem-solving\nCommunication skills\nPreferred Skills\nMachine Learning fundamentals\nETL concepts",
+    "analyzed_at": "2026-08-18T18:44:53",
+    "analysis_source": "Gemini",
+    "ats_score": 42,
+    "skill_score": 26,
+    "experience_score": 45,
+    "education_score": 50,
+    "result": {
+      "ats_score": 42,
+      "skill_score": 26,
+      "experience_score": 45,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 26,
+        "experience": 45,
+        "education": 50,
+        "keywords": 35,
+        "resume_quality": 85
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Python",
+          "SQL",
+          "Database fundamentals",
+          "Problem-solving",
+          "Communication skills"
+        ],
+        "missing_keywords": [
+          "Pandas",
+          "NumPy",
+          "Data Analysis",
+          "Exploratory Data Analysis (EDA)",
+          "Data Visualization",
+          "Power BI",
+          "Tableau",
+          "Statistics",
+          "Excel",
+          "Machine Learning fundamentals",
+          "ETL concepts"
+        ],
+        "important_keywords": [
+          "Python",
+          "SQL",
+          "Pandas",
+          "NumPy",
+          "Data Analysis",
+          "Data Visualization",
+          "Power BI",
+          "Tableau",
+          "Statistics"
+        ]
+      },
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Exploratory Data Analysis (EDA)",
+        "Data Visualization",
+        "Power BI or Tableau",
+        "Statistics",
+        "Excel",
+        "Database fundamentals",
+        "Problem-solving",
+        "Communication skills",
+        "Machine Learning fundamentals",
+        "ETL concepts"
+      ],
+      "matched_skills": [
+        "Python",
+        "SQL",
+        "Database fundamentals",
+        "Problem-solving",
+        "Communication skills"
+      ],
+      "missing_skills": [
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Exploratory Data Analysis (EDA)",
+        "Data Visualization",
+        "Power BI or Tableau",
+        "Statistics",
+        "Excel",
+        "Machine Learning fundamentals",
+        "ETL concepts"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "score": 80,
+          "evidence": "Proficient in Python; built backend microservices using Python and Flask."
+        },
+        {
+          "skill": "SQL",
+          "score": 70,
+          "evidence": "Listed SQL under technical skills and applied DBMS query performance optimizations."
+        },
+        {
+          "skill": "Pandas",
+          "score": 0,
+          "evidence": "No explicit evidence found in the resume."
+        },
+        {
+          "skill": "NumPy",
+          "score": 0,
+          "evidence": "No explicit evidence found in the resume."
+        },
+        {
+          "skill": "Data Analysis",
+          "score": 0,
+          "evidence": "No explicit evidence found in the resume."
+        },
+        {
+          "skill": "Exploratory Data Analysis (EDA)",
+          "score": 0,
+          "evidence": "No explicit evidence found in the resume."
+        },
+        {
+          "skill": "Data Visualization",
+          "score": 0,
+          "evidence": "No explicit evidence found in the resume."
+        },
+        {
+          "skill": "Power BI or Tableau",
+          "score": 0,
+          "evidence": "No explicit evidence found in the resume."
+        },
+        {
+          "skill": "Statistics",
+          "score": 0,
+          "evidence": "No explicit evidence found in the resume."
+        },
+        {
+          "skill": "Excel",
+          "score": 0,
+          "evidence": "No explicit evidence found in the resume."
+        },
+        {
+          "skill": "Database fundamentals",
+          "score": 80,
+          "evidence": "Studied DBMS fundamentals in CS degree and optimized database query performance at TechCorp."
+        },
+        {
+          "skill": "Problem-solving",
+          "score": 75,
+          "evidence": "Demonstrated through Data Structures & Algorithms, high-performance C++ parser development, and throughput optimization."
+        },
+        {
+          "skill": "Communication skills",
+          "score": 70,
+          "evidence": "Collaborated with cross-functional engineering teams on code reviews and deployments."
+        },
+        {
+          "skill": "Machine Learning fundamentals",
+          "score": 0,
+          "evidence": "No explicit evidence found in the resume."
+        },
+        {
+          "skill": "ETL concepts",
+          "score": 15,
+          "evidence": "Migrated legacy monolithic modules and created a data parser, but no direct ETL pipeline implementation mentioned."
+        }
+      ],
+      "recommendations": [
+        "Incorporate core Python data analysis libraries such as Pandas and NumPy into your projects or skills section.",
+        "Add examples of Exploratory Data Analysis (EDA) and data visualization using tools like Power BI, Tableau, Matplotlib, or Seaborn.",
+        "Highlight exposure to applied statistics, Excel data modeling, or machine learning basics to better align with data analysis roles.",
+        "Detail any experience with ETL workflows, data processing pipelines, or data cleaning tasks."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  },
+  {
+    "id": "0903ca7b3c5c4c7d8b2b2574c950d32c",
+    "resume_id": "49167672e99e47088aa5f4b869bb5823",
+    "resume_name": "AIML_resume.pdf",
+    "job_description": "Python\nSQL\nPandas\nNumPy\nData Analysis\nExploratory Data Analysis (EDA)\nData Visualization\nPower BI or Tableau\nStatistics\nExcel\nDatabase fundamentals\nProblem-solving\nCommunication skills",
+    "analyzed_at": "2026-08-23T19:59:21",
+    "analysis_source": "Gemini",
+    "ats_score": 68,
+    "skill_score": 67,
+    "experience_score": 55,
+    "education_score": 50,
+    "result": {
+      "ats_score": 68,
+      "skill_score": 67,
+      "experience_score": 55,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 67,
+        "experience": 55,
+        "education": 50,
+        "keywords": 77,
+        "resume_quality": 60
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Python",
+          "SQL",
+          "Pandas",
+          "NumPy",
+          "Data Analysis",
+          "Exploratory Data Analysis (EDA)",
+          "Data Visualization",
+          "Power BI",
+          "Statistics",
+          "Database fundamentals",
+          "Problem-solving",
+          "Communication skills"
+        ],
+        "missing_keywords": [
+          "Excel",
+          "Tableau"
+        ],
+        "important_keywords": [
+          "Python",
+          "SQL",
+          "Data Analysis",
+          "Exploratory Data Analysis (EDA)",
+          "Excel",
+          "Power BI or Tableau"
+        ]
+      },
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Exploratory Data Analysis (EDA)",
+        "Data Visualization",
+        "Power BI or Tableau",
+        "Statistics",
+        "Excel",
+        "Database fundamentals",
+        "Problem-solving",
+        "Communication skills"
+      ],
+      "matched_skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Exploratory Data Analysis (EDA)",
+        "Data Visualization",
+        "Power BI or Tableau",
+        "Statistics",
+        "Database fundamentals",
+        "Problem-solving",
+        "Communication skills"
+      ],
+      "missing_skills": [
+        "Excel"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "score": 90,
+          "evidence": "Listed in Technical Skills; heavily utilized across all projects and career objective."
+        },
+        {
+          "skill": "SQL",
+          "score": 75,
+          "evidence": "Listed under Technical Skills and holds a 'SQL for Data Science' certification."
+        },
+        {
+          "skill": "Pandas",
+          "score": 85,
+          "evidence": "Listed in Technical Skills and explicitly used in Project 1 (Crime Prediction Platform)."
+        },
+        {
+          "skill": "NumPy",
+          "score": 70,
+          "evidence": "Listed in Technical Skills under Data, though lacking direct explicit project bullet proof."
+        },
+        {
+          "skill": "Data Analysis",
+          "score": 70,
+          "evidence": "Mentioned under Experience section ('Contributed to data cleaning, exploratory analysis...')."
+        },
+        {
+          "skill": "Exploratory Data Analysis (EDA)",
+          "score": 70,
+          "evidence": "Referenced in Experience section as 'exploratory analysis'."
+        },
+        {
+          "skill": "Data Visualization",
+          "score": 75,
+          "evidence": "Matplotlib listed in skills; built a Flask dashboard for visualization in Project 1."
+        },
+        {
+          "skill": "Power BI or Tableau",
+          "score": 60,
+          "evidence": "Power BI is listed under Technical Skills (Data), but lacks implementation details in projects."
+        },
+        {
+          "skill": "Statistics",
+          "score": 65,
+          "evidence": "Listed under Concepts in Technical Skills and in the Career Objective."
+        },
+        {
+          "skill": "Excel",
+          "score": 0,
+          "evidence": "No mention of Microsoft Excel found anywhere in the resume."
+        },
+        {
+          "skill": "Database fundamentals",
+          "score": 75,
+          "evidence": "Demonstrated via MySQL, MongoDB, and AWS S3/EC2 entries under Cloud/DB."
+        },
+        {
+          "skill": "Problem-solving",
+          "score": 70,
+          "evidence": "Listed under Soft Skills."
+        },
+        {
+          "skill": "Communication skills",
+          "score": 70,
+          "evidence": "Listed under Soft Skills; supported by 'presenting findings to the team' under Experience."
+        }
+      ],
+      "recommendations": [
+        "Add explicit mention and usage of Microsoft Excel (e.g., advanced formulas, pivot tables, or data cleaning in Excel).",
+        "Replace all placeholder brackets (such as [XX]%, [N], [Company Name]) with real metrics and organization names.",
+        "Detail a specific project or dashboard built using Power BI or Tableau to demonstrate practical competency rather than just listing it in skills.",
+        "Elaborate on SQL experience by adding a project bullet point showing query writing, aggregation, or joining tables."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  },
+  {
+    "id": "52bc324c1039448ebafefa8815cf3ea1",
+    "resume_id": "d13df55bd132496e8797dcf6b24d7b49",
+    "resume_name": "Cybersecurity_Resume.pdf",
+    "job_description": "Python\nSQL\nPandas\nNumPy\nData Analysis\nExploratory Data Analysis (EDA)\nData Visualization\nPower BI or Tableau\nStatistics\nExcel\nDatabase fundamentals\nProblem-solving\nCommunication skills",
+    "analyzed_at": "2026-08-23T20:01:31",
+    "analysis_source": "Gemini",
+    "ats_score": 22,
+    "skill_score": 13,
+    "experience_score": 10,
+    "education_score": 50,
+    "result": {
+      "ats_score": 22,
+      "skill_score": 13,
+      "experience_score": 10,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 13,
+        "experience": 10,
+        "education": 50,
+        "keywords": 15,
+        "resume_quality": 65
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Data Analysis",
+          "Database fundamentals"
+        ],
+        "missing_keywords": [
+          "Python",
+          "SQL",
+          "Pandas",
+          "NumPy",
+          "Exploratory Data Analysis (EDA)",
+          "Data Visualization",
+          "Power BI",
+          "Tableau",
+          "Statistics",
+          "Excel"
+        ],
+        "important_keywords": [
+          "Python",
+          "SQL",
+          "Pandas",
+          "NumPy",
+          "Data Analysis",
+          "Power BI",
+          "Tableau",
+          "Excel"
+        ]
+      },
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Exploratory Data Analysis (EDA)",
+        "Data Visualization",
+        "Power BI or Tableau",
+        "Statistics",
+        "Excel",
+        "Database fundamentals",
+        "Problem-solving",
+        "Communication skills"
+      ],
+      "matched_skills": [
+        "Data Analysis",
+        "Database fundamentals",
+        "Problem-solving",
+        "Communication skills"
+      ],
+      "missing_skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Exploratory Data Analysis (EDA)",
+        "Data Visualization",
+        "Power BI or Tableau",
+        "Statistics",
+        "Excel"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "score": 0,
+          "evidence": "No explicit mention of Python programming in skills, projects, or coursework."
+        },
+        {
+          "skill": "SQL",
+          "score": 20,
+          "evidence": "Mentioned DBMS in coursework, but SQL language itself is not explicitly listed."
+        },
+        {
+          "skill": "Pandas",
+          "score": 0,
+          "evidence": "No evidence found in the resume."
+        },
+        {
+          "skill": "NumPy",
+          "score": 0,
+          "evidence": "No evidence found in the resume."
+        },
+        {
+          "skill": "Data Analysis",
+          "score": 40,
+          "evidence": "Analyzed financial information during Standard Chartered Credit Analyst simulation."
+        },
+        {
+          "skill": "Exploratory Data Analysis (EDA)",
+          "score": 0,
+          "evidence": "No evidence found in the resume."
+        },
+        {
+          "skill": "Data Visualization",
+          "score": 0,
+          "evidence": "No evidence found in the resume."
+        },
+        {
+          "skill": "Power BI or Tableau",
+          "score": 0,
+          "evidence": "No evidence found in the resume."
+        },
+        {
+          "skill": "Statistics",
+          "score": 0,
+          "evidence": "No evidence found in the resume."
+        },
+        {
+          "skill": "Excel",
+          "score": 0,
+          "evidence": "No evidence found in the resume."
+        },
+        {
+          "skill": "Database fundamentals",
+          "score": 40,
+          "evidence": "DBMS listed as relevant coursework under B.Tech education."
+        },
+        {
+          "skill": "Problem-solving",
+          "score": 30,
+          "evidence": "Applied analytical thinking to risk assessment tasks in Credit Analyst job simulation."
+        },
+        {
+          "skill": "Communication skills",
+          "score": 40,
+          "evidence": "Prepared structured reports in Credit Analyst simulation and documented security incidents/reporting in lab projects."
+        }
+      ],
+      "recommendations": [
+        "Align the resume with Data Analytics standard tooling: explicit mention of Python, SQL, Pandas, NumPy, and Excel is critical for this job profile.",
+        "Include Data Visualization tools (Power BI or Tableau) and showcase specific dashboarding or reporting projects.",
+        "Add projects showcasing Exploratory Data Analysis (EDA) and statistical modeling to demonstrate core data analysis competencies.",
+        "Tailor the professional summary and project sections toward Data Analytics / Data Engineering instead of Cybersecurity focus area."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  },
+  {
+    "id": "18cbfda2681e416588514eb891207464",
+    "resume_id": "1724a28f051d469c940ebaa1a359b31f",
+    "resume_name": "Data_Analyst_Resume.pdf",
+    "job_description": "Python\nSQL\nPandas\nNumPy\nData Analysis\nExploratory Data Analysis (EDA)\nData Visualization\nPower BI or Tableau\nStatistics\nExcel\nDatabase fundamentals\nProblem-solving\nCommunication skills",
+    "analyzed_at": "2026-08-23T20:01:41",
+    "analysis_source": "Gemini",
+    "ats_score": 68,
+    "skill_score": 62,
+    "experience_score": 58,
+    "education_score": 50,
+    "result": {
+      "ats_score": 68,
+      "skill_score": 62,
+      "experience_score": 58,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 62,
+        "experience": 58,
+        "education": 50,
+        "keywords": 75,
+        "resume_quality": 80
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Python",
+          "SQL",
+          "Pandas",
+          "NumPy",
+          "Data Analysis",
+          "Exploratory Data Analysis (EDA)",
+          "Data Visualization",
+          "Statistics",
+          "Excel",
+          "Database fundamentals",
+          "Problem-solving"
+        ],
+        "missing_keywords": [
+          "Power BI",
+          "Tableau",
+          "Communication skills"
+        ],
+        "important_keywords": [
+          "Python",
+          "SQL",
+          "Power BI or Tableau",
+          "Data Analysis",
+          "Excel"
+        ]
+      },
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Exploratory Data Analysis (EDA)",
+        "Data Visualization",
+        "Power BI or Tableau",
+        "Statistics",
+        "Excel",
+        "Database fundamentals",
+        "Problem-solving",
+        "Communication skills"
+      ],
+      "matched_skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Exploratory Data Analysis (EDA)",
+        "Data Visualization",
+        "Statistics",
+        "Excel",
+        "Database fundamentals",
+        "Problem-solving"
+      ],
+      "missing_skills": [
+        "Power BI or Tableau",
+        "Communication skills"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "score": 85,
+          "evidence": "Mentioned in Technical Skills, Professional Summary, and applied in projects like ETL Pipeline Development."
+        },
+        {
+          "skill": "SQL",
+          "score": 80,
+          "evidence": "Listed under Technical Skills and used in Credit Risk Analysis Dashboard ETL workflows."
+        },
+        {
+          "skill": "Pandas",
+          "score": 75,
+          "evidence": "Listed under Data Analysis technical skills and mentioned in Professional Summary."
+        },
+        {
+          "skill": "NumPy",
+          "score": 70,
+          "evidence": "Listed under Data Analysis technical skills and mentioned in Professional Summary."
+        },
+        {
+          "skill": "Data Analysis",
+          "score": 85,
+          "evidence": "Highlighted in Professional Summary, Skills, Strengths, and demonstrated across analytics projects."
+        },
+        {
+          "skill": "Exploratory Data Analysis (EDA)",
+          "score": 70,
+          "evidence": "Listed in Data Analysis technical skills and Analytical Strengths."
+        },
+        {
+          "skill": "Data Visualization",
+          "score": 75,
+          "evidence": "Listed in Visualization skills and demonstrated in Credit Risk Analysis Dashboard project."
+        },
+        {
+          "skill": "Power BI or Tableau",
+          "score": 0,
+          "evidence": "No explicit mention of Power BI or Tableau in the resume, only general dashboard development."
+        },
+        {
+          "skill": "Statistics",
+          "score": 70,
+          "evidence": "Mentioned in Professional Summary, Relevant Coursework, and Statistical Thinking strengths."
+        },
+        {
+          "skill": "Excel",
+          "score": 50,
+          "evidence": "Listed under Tools as 'Excel fundamentals'."
+        },
+        {
+          "skill": "Database fundamentals",
+          "score": 80,
+          "evidence": "Listed under Core CS (DBMS) and Databases (MySQL, MongoDB)."
+        },
+        {
+          "skill": "Problem-solving",
+          "score": 70,
+          "evidence": "Listed in Professional Summary and Analytical Strengths."
+        },
+        {
+          "skill": "Communication skills",
+          "score": 0,
+          "evidence": "No direct evidence or explicit mention of written or verbal communication skills in the resume."
+        }
+      ],
+      "recommendations": [
+        "Explicitly add Power BI or Tableau to your Technical Skills and detail how you used them in your project work.",
+        "Highlight specific communication skills, such as presenting data insights to stakeholders or writing technical reports.",
+        "Elaborate on Excel usage by detailing advanced functions (e.g., Pivot Tables, VLOOKUP, XLOOKUP) instead of labeling it as 'Excel fundamentals'.",
+        "Quantify project achievements with metrics (e.g., percentage improvements in data processing time or volume of data handled) to strengthen experience impact."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  },
+  {
+    "id": "e339f939a64a44259ee5e7b44c7d71de",
+    "resume_id": null,
+    "resume_name": "Resume",
+    "job_description": "We need a Python developer with React experience",
+    "analyzed_at": "2026-08-25T11:21:05",
+    "analysis_source": "Gemini",
+    "ats_score": 60,
+    "skill_score": 65,
+    "experience_score": 60,
+    "education_score": 50,
+    "result": {
+      "ats_score": 60,
+      "skill_score": 65,
+      "experience_score": 60,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 65,
+        "experience": 60,
+        "education": 50,
+        "keywords": 75,
+        "resume_quality": 40
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Python",
+          "React"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Python",
+          "React"
+        ]
+      },
+      "required_skills": [
+        "Python",
+        "React"
+      ],
+      "matched_skills": [
+        "Python",
+        "React"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "score": 65,
+          "evidence": "Listed in the Skills section; candidate has 3 years of general Software Engineer experience, but lacks detailed project descriptions."
+        },
+        {
+          "skill": "React",
+          "score": 65,
+          "evidence": "Listed in the Skills section; lacks detailed bullet points demonstrating hands-on project experience."
+        }
+      ],
+      "recommendations": [
+        "Add detailed bullet points under Experience detailing how Python and React were used in specific projects.",
+        "Include quantifiable achievements and metrics from your 3 years of experience.",
+        "Flesh out the resume structure to include specific job responsibilities, project details, and education."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  },
+  {
+    "id": "dd8442ee2c704f29ba71defb286863eb",
+    "resume_id": "0ff4760550a6443e8440d129563ac673",
+    "resume_name": "MADHU_K_S_Resume_Updated.pdf",
+    "job_description": "java",
+    "analyzed_at": "2026-08-25T11:30:34",
+    "analysis_source": "Gemini",
+    "ats_score": 45,
+    "skill_score": 50,
+    "experience_score": 20,
+    "education_score": 50,
+    "result": {
+      "ats_score": 45,
+      "skill_score": 50,
+      "experience_score": 20,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 50,
+        "experience": 20,
+        "education": 50,
+        "keywords": 50,
+        "resume_quality": 70
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [
+          "Object-Oriented Programming (OOP)",
+          "Spring Boot",
+          "REST APIs",
+          "Multithreading"
+        ],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 50,
+          "evidence": "Listed under Technical Skills ('Programming: Python, SQL, Java'), but no Java-specific projects, frameworks, or practical implementations are detailed in the experience or project sections."
+        }
+      ],
+      "recommendations": [
+        "Develop and showcase hands-on projects built using Java (e.g., RESTful APIs, backend services) to provide proof of application.",
+        "Detail specific Java concepts and ecosystem tools on your resume, such as Core Java, OOP design patterns, Spring Boot, or Maven/Gradle.",
+        "Shift focus from Python/AI projects toward Java backend development to align more directly with Java-centric job descriptions."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  },
+  {
+    "id": "9a8dff8ed144421f93c83fbac9cdac16",
+    "resume_id": "0ff4760550a6443e8440d129563ac673",
+    "resume_name": "MADHU_K_S_Resume_Updated.pdf",
+    "job_description": "java ,python",
+    "analyzed_at": "2026-08-25T11:33:32",
+    "analysis_source": "Gemini",
+    "ats_score": 75,
+    "skill_score": 80,
+    "experience_score": 50,
+    "education_score": 50,
+    "result": {
+      "ats_score": 75,
+      "skill_score": 80,
+      "experience_score": 50,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 80,
+        "experience": 50,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 75
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java",
+          "Python"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java",
+          "Python"
+        ]
+      },
+      "required_skills": [
+        "Java",
+        "Python"
+      ],
+      "matched_skills": [
+        "Java",
+        "Python"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 70,
+          "evidence": "Listed under Technical Skills: 'Programming: Python, SQL, Java', though specific Java projects are not detailed."
+        },
+        {
+          "skill": "Python",
+          "score": 90,
+          "evidence": "Listed under Technical Skills, backed by 'Python for Data Science' certification from Infosys Springboard, and utilized in the 'AI Resume Analyzer' project."
+        }
+      ],
+      "recommendations": [
+        "Add concrete project details or bullet points demonstrating practical application of Java to strengthen the Java skill match score.",
+        "Specify core libraries, frameworks, or object-oriented concepts utilized in both Java and Python development.",
+        "Elaborate on backend development capabilities if applying for software engineering or full-stack roles using Java and Python."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  },
+  {
+    "id": "6f5931cd225744cf94b5902632f69c05",
+    "resume_id": "0ff4760550a6443e8440d129563ac673",
+    "resume_name": "MADHU_K_S_Resume_Updated.pdf",
+    "job_description": "# Software Developer\n\n## Job Description\n\nWe are looking for a motivated Software Developer to design, develop, test, and maintain reliable software applications. The role involves working with development teams to understand requirements, build new features, troubleshoot technical issues, and improve application performance. The candidate should have strong programming fundamentals, problem-solving skills, and an understanding of software development practices.\n\n## Key Responsibilities\n\n* Develop, test, debug, and maintain software applications.\n* Write clean, efficient, reusable, and maintainable code.\n* Analyze business and technical requirements and convert them into software solutions.\n* Design and implement new features and functionality.\n* Identify and fix bugs and performance issues.\n* Work with databases and develop efficient queries.\n* Integrate REST APIs and third-party services.\n* Perform unit testing and assist with application testing.\n* Use Git and GitHub for version control and collaborative development.\n* Participate in code reviews and follow software development best practices.\n* Collaborate with developers, testers, and other team members.\n* Maintain technical documentation and support application deployment.\n\n## Required Technical Skills\n\n* Programming: Python, Java, C++, or JavaScript.\n* Data Structures and Algorithms.\n* Object-Oriented Programming (OOP).\n* Database Management: MySQL / PostgreSQL / MongoDB.\n* SQL and database concepts.\n* HTML, CSS, and JavaScript fundamentals.\n* REST APIs and basic backend development.\n* Git and GitHub.\n* Debugging and problem-solving.\n* Basic knowledge of Operating Systems, DBMS, and Computer Networks.\n\n## Preferred Skills\n\n* Knowledge of React.js, Node.js, Flask, or Django.\n* Understanding of cloud platforms such as AWS or Azure.\n* Familiarity with Docker and CI/CD concepts.\n* Knowledge of software testing and development methodologies.\n* Experience working with Agile/Scrum teams.\n* Ability to understand and work with existing codebases.\n\n## Educational Qualification\n\n* Bachelor's degree in Computer Science, Information Technology, Artificial Intelligence, or a related field.\n* Freshers and candidates with relevant project experience can apply.\n\n## Soft Skills\n\n* Strong analytical and problem-solving abilities.\n* Good communication and teamwork skills.\n* Ability to learn new technologies quickly.\n* Attention to detail.\n* Time management and ability to meet deadlines.\n* Logical and structured approach to solving technical problems.\n\n## Tools & Technologies\n\n**Languages:** Python, Java, C++, JavaScript\n**Frontend:** HTML, CSS, JavaScript, React.js\n**Backend:** Flask, Django, Node.js\n**Databases:** MySQL, PostgreSQL, MongoDB\n**Version Control:** Git, GitHub\n**Development Tools:** VS Code, Postman, Docker\n**Concepts:** DSA, OOP, DBMS, REST APIs, SDLC, Software Testing",
+    "analyzed_at": "2026-08-25T11:35:30",
+    "analysis_source": "Gemini",
+    "ats_score": 63,
+    "skill_score": 62,
+    "experience_score": 40,
+    "education_score": 90,
+    "result": {
+      "ats_score": 63,
+      "skill_score": 62,
+      "experience_score": 40,
+      "education_score": 90,
+      "score_breakdown": {
+        "skills": 62,
+        "experience": 40,
+        "education": 90,
+        "keywords": 60,
+        "resume_quality": 75
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Python",
+          "Java",
+          "SQL",
+          "DBMS",
+          "Operating Systems",
+          "Computer Networks",
+          "Git",
+          "GitHub",
+          "FastAPI",
+          "Flask",
+          "DSA"
+        ],
+        "missing_keywords": [
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "OOP",
+          "Object-Oriented Programming",
+          "REST APIs",
+          "MySQL",
+          "PostgreSQL",
+          "MongoDB",
+          "Docker",
+          "Software Testing"
+        ],
+        "important_keywords": [
+          "Python",
+          "Java",
+          "DSA",
+          "OOP",
+          "SQL",
+          "DBMS",
+          "REST APIs",
+          "Git",
+          "GitHub",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      "required_skills": [
+        "Python",
+        "Java",
+        "Data Structures and Algorithms (DSA)",
+        "Object-Oriented Programming (OOP)",
+        "Database Management & SQL",
+        "HTML/CSS/JavaScript",
+        "REST APIs & Backend Development",
+        "Git & GitHub",
+        "Operating Systems & Computer Networks"
+      ],
+      "matched_skills": [
+        "Python",
+        "Java",
+        "Data Structures and Algorithms (DSA)",
+        "Database Management & SQL",
+        "REST APIs & Backend Development",
+        "Git & GitHub",
+        "Operating Systems & Computer Networks"
+      ],
+      "missing_skills": [
+        "Object-Oriented Programming (OOP)",
+        "HTML/CSS/JavaScript"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "score": 95,
+          "evidence": "Listed in technical skills, project implementations with Flask/FastAPI, and Python for Data Science certification."
+        },
+        {
+          "skill": "Java",
+          "score": 60,
+          "evidence": "Listed in technical skills, though missing project details demonstrating Java usage."
+        },
+        {
+          "skill": "Data Structures and Algorithms (DSA)",
+          "score": 70,
+          "evidence": "Listed under Interview Prep and included LeetCode profile link."
+        },
+        {
+          "skill": "Object-Oriented Programming (OOP)",
+          "score": 10,
+          "evidence": "Not explicitly mentioned in technical skills or project descriptions."
+        },
+        {
+          "skill": "Database Management & SQL",
+          "score": 80,
+          "evidence": "Listed SQL and DBMS under Core Subjects and implemented backend data handling in projects."
+        },
+        {
+          "skill": "HTML/CSS/JavaScript",
+          "score": 0,
+          "evidence": "No explicit mention of frontend technologies (HTML, CSS, JavaScript) in skills or projects."
+        },
+        {
+          "skill": "REST APIs & Backend Development",
+          "score": 75,
+          "evidence": "FastAPI and Flask listed in skills/projects; backend handling mentioned in healthcare app project."
+        },
+        {
+          "skill": "Git & GitHub",
+          "score": 85,
+          "evidence": "Listed under Tools & Frameworks."
+        },
+        {
+          "skill": "Operating Systems & Computer Networks",
+          "score": 85,
+          "evidence": "Explicitly listed under Core Subjects."
+        }
+      ],
+      "recommendations": [
+        "Target the profile title and professional summary towards 'Software Developer' rather than 'Aspiring AI/ML Engineer' when applying for general software engineering roles.",
+        "Add explicit keywords for Object-Oriented Programming (OOP) and explicit mentions of 'REST APIs' to improve ATS parsing.",
+        "Include web frontend basics like HTML, CSS, and JavaScript if you have experience with them, as required by the job description.",
+        "Specify which database systems (e.g., MySQL, PostgreSQL, MongoDB) were used in your academic or personal projects.",
+        "Highlight experience with testing, debugging, or Software Development Life Cycle (SDLC) methodologies."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  },
+  {
+    "id": "0299373ac0dd42cea1376335bd2ccf93",
+    "resume_id": "0ff4760550a6443e8440d129563ac673",
+    "resume_name": "MADHU_K_S_Resume_Updated.pdf",
+    "job_description": "## Required Technical Skills\n\n* Programming: Python, Java, C++, or JavaScript.\n* Data Structures and Algorithms.\n* Object-Oriented Programming (OOP).\n* Database Management: MySQL / PostgreSQL / MongoDB.\n* SQL and database concepts.\n* HTML, CSS, and JavaScript fundamentals.\n* REST APIs and basic backend development.\n* Git and GitHub.\n* Debugging and problem-solving.\n* Basic knowledge of Operating Systems, DBMS, and Computer Networks.\n\n## Preferred Skills\n\n* Knowledge of React.js, Node.js, Flask, or Django.\n* Understanding of cloud platforms such as AWS or Azure.\n* Familiarity with Docker and CI/CD concepts.\n* Knowledge of software testing and development methodologies.\n* Experience working with Agile/Scrum teams.\n* Ability to understand and work with existing codebases.\n\n## Educational Qualification\n\n* Bachelor's degree in Computer Science, Information Technology, Artificial Intelligence, or a related field.\n* Freshers and candidates with relevant project experience can apply.\n\n## Soft Skills\n\n* Strong analytical and problem-solving abilities.\n* Good communication and teamwork skills.\n* Ability to learn new technologies quickly.\n* Attention to detail.\n* Time management and ability to meet deadlines.\n* Logical and structured approach to solving technical problems.\n\n## Tools & Technologies\n\n**Languages:** Python, Java, C++, JavaScript\n**Frontend:** HTML, CSS, JavaScript, React.js\n**Backend:** Flask, Django, Node.js\n**Databases:** MySQL, PostgreSQL, MongoDB\n**Version Control:** Git, GitHub\n**Development Tools:** VS Code, Postman, Docker\n**Concepts:** DSA, OOP, DBMS, REST APIs, SDLC, Software Testing",
+    "analyzed_at": "2026-08-25T11:36:32",
+    "analysis_source": "Gemini",
+    "ats_score": 64,
+    "skill_score": 58,
+    "experience_score": 50,
+    "education_score": 85,
+    "result": {
+      "ats_score": 64,
+      "skill_score": 58,
+      "experience_score": 50,
+      "education_score": 85,
+      "score_breakdown": {
+        "skills": 58,
+        "experience": 50,
+        "education": 85,
+        "keywords": 60,
+        "resume_quality": 75
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "GitHub",
+          "Flask",
+          "DSA",
+          "DBMS",
+          "Operating Systems",
+          "Computer Networks"
+        ],
+        "missing_keywords": [
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "OOP",
+          "MySQL",
+          "PostgreSQL",
+          "MongoDB",
+          "Docker",
+          "AWS",
+          "React.js"
+        ],
+        "important_keywords": [
+          "Python",
+          "Java",
+          "Data Structures and Algorithms",
+          "OOP",
+          "SQL",
+          "MySQL",
+          "REST APIs",
+          "Git",
+          "HTML/CSS/JavaScript"
+        ]
+      },
+      "required_skills": [
+        "Python",
+        "Java",
+        "Data Structures and Algorithms",
+        "Object-Oriented Programming (OOP)",
+        "SQL",
+        "Database Management (MySQL/PostgreSQL/MongoDB)",
+        "HTML/CSS/JavaScript",
+        "REST APIs",
+        "Git and GitHub",
+        "Core Computer Science (OS, DBMS, Networks)"
+      ],
+      "matched_skills": [
+        "Python",
+        "Java",
+        "Data Structures and Algorithms",
+        "SQL",
+        "REST APIs",
+        "Git and GitHub",
+        "Core Computer Science (OS, DBMS, Networks)"
+      ],
+      "missing_skills": [
+        "Object-Oriented Programming (OOP)",
+        "Database Management (MySQL/PostgreSQL/MongoDB)",
+        "HTML/CSS/JavaScript"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "score": 90,
+          "evidence": "Listed under technical skills, certification ('Python for Data Science'), and used in project 'AI Resume Analyzer'."
+        },
+        {
+          "skill": "Java",
+          "score": 60,
+          "evidence": "Listed under Programming technical skills, though not explicitly detailed in projects."
+        },
+        {
+          "skill": "Data Structures and Algorithms",
+          "score": 70,
+          "evidence": "Listed under Interview Prep skills and mentioned in Infosys Springboard certification coursework."
+        },
+        {
+          "skill": "Object-Oriented Programming (OOP)",
+          "score": 0,
+          "evidence": "No explicit mention or evidence of Object-Oriented Programming concepts in the resume."
+        },
+        {
+          "skill": "SQL",
+          "score": 85,
+          "evidence": "Highlighted in the resume header, summary, technical skills, and DBMS coursework."
+        },
+        {
+          "skill": "Database Management (MySQL/PostgreSQL/MongoDB)",
+          "score": 40,
+          "evidence": "DBMS listed under core subjects and project backend data handling mentioned, but specific engines (MySQL, PostgreSQL, MongoDB) are not named."
+        },
+        {
+          "skill": "HTML/CSS/JavaScript",
+          "score": 0,
+          "evidence": "Frontend skills (HTML, CSS, JavaScript) required by the job description are missing from the resume."
+        },
+        {
+          "skill": "REST APIs",
+          "score": 75,
+          "evidence": "Demonstrated backend development using Flask and listed FastAPI in technical tools."
+        },
+        {
+          "skill": "Git and GitHub",
+          "score": 80,
+          "evidence": "Explicitly listed under Tools & Frameworks in technical skills."
+        },
+        {
+          "skill": "Core Computer Science (OS, DBMS, Networks)",
+          "score": 85,
+          "evidence": "Operating Systems, Computer Networks, and DBMS are explicitly listed under Core Subjects."
+        }
+      ],
+      "recommendations": [
+        "Explicitly mention fundamental concepts such as Object-Oriented Programming (OOP) in your skills and project descriptions.",
+        "Add specific web technologies requested in the JD (HTML, CSS, JavaScript) to your skills section if you possess basic knowledge.",
+        "Specify explicit database management systems used in your projects, such as MySQL, PostgreSQL, or MongoDB, rather than generic DBMS terms.",
+        "Elaborate on backend development capabilities by detailing how Flask or FastAPI endpoints and RESTful architectures were designed in your projects."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  },
+  {
+    "id": "b1cc88de28224a058ad2207768f84fc8",
+    "resume_id": "85575b757ca64178b4ba4a02338e0841",
+    "resume_name": "Cybersecurity_Resume.pdf",
+    "job_description": "## Required Technical Skills\n\n* Programming: Python, Java, C++, or JavaScript.\n* Data Structures and Algorithms.\n* Object-Oriented Programming (OOP).\n* Database Management: MySQL / PostgreSQL / MongoDB.\n* SQL and database concepts.\n* HTML, CSS, and JavaScript fundamentals.\n* REST APIs and basic backend development.\n* Git and GitHub.\n* Debugging and problem-solving.\n* Basic knowledge of Operating Systems, DBMS, and Computer Networks.\n\n## Preferred Skills\n\n* Knowledge of React.js, Node.js, Flask, or Django.\n* Understanding of cloud platforms such as AWS or Azure.\n* Familiarity with Docker and CI/CD concepts.\n* Knowledge of software testing and development methodologies.\n* Experience working with Agile/Scrum teams.\n* Ability to understand and work with existing codebases.\n\n## Educational Qualification\n\n* Bachelor's degree in Computer Science, Information Technology, Artificial Intelligence, or a related field.\n* Freshers and candidates with relevant project experience can apply.\n\n## Soft Skills\n\n* Strong analytical and problem-solving abilities.\n* Good communication and teamwork skills.\n* Ability to learn new technologies quickly.\n* Attention to detail.\n* Time management and ability to meet deadlines.\n* Logical and structured approach to solving technical problems.\n\n## Tools & Technologies\n\n**Languages:** Python, Java, C++, JavaScript\n**Frontend:** HTML, CSS, JavaScript, React.js\n**Backend:** Flask, Django, Node.js\n**Databases:** MySQL, PostgreSQL, MongoDB\n**Version Control:** Git, GitHub\n**Development Tools:** VS Code, Postman, Docker\n**Concepts:** DSA, OOP, DBMS, REST APIs, SDLC, Software Testing",
+    "analyzed_at": "2026-08-25T11:37:16",
+    "analysis_source": "Gemini",
+    "ats_score": 48,
+    "skill_score": 36,
+    "experience_score": 42,
+    "education_score": 95,
+    "result": {
+      "ats_score": 48,
+      "skill_score": 36,
+      "experience_score": 42,
+      "education_score": 95,
+      "score_breakdown": {
+        "skills": 36,
+        "experience": 42,
+        "education": 95,
+        "keywords": 45,
+        "resume_quality": 75
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Artificial Intelligence",
+          "Computer Networks",
+          "Operating Systems",
+          "DBMS",
+          "Data Structures & Algorithms",
+          "GitHub"
+        ],
+        "missing_keywords": [
+          "Python",
+          "Java",
+          "C++",
+          "JavaScript",
+          "OOP",
+          "MySQL",
+          "PostgreSQL",
+          "MongoDB",
+          "HTML",
+          "CSS",
+          "REST APIs",
+          "Git"
+        ],
+        "important_keywords": [
+          "Python",
+          "Java",
+          "Data Structures and Algorithms",
+          "OOP",
+          "REST APIs",
+          "SQL",
+          "Git"
+        ]
+      },
+      "required_skills": [
+        "Programming (Python/Java/C++/JavaScript)",
+        "Data Structures and Algorithms",
+        "Object-Oriented Programming (OOP)",
+        "Database Management Systems (DBMS/SQL)",
+        "HTML/CSS/JavaScript",
+        "REST APIs & Backend Development",
+        "Git & GitHub",
+        "Computer Networks",
+        "Operating Systems"
+      ],
+      "matched_skills": [
+        "Data Structures and Algorithms",
+        "Database Management Systems (DBMS/SQL)",
+        "Git & GitHub",
+        "Computer Networks",
+        "Operating Systems"
+      ],
+      "missing_skills": [
+        "Programming (Python/Java/C++/JavaScript)",
+        "Object-Oriented Programming (OOP)",
+        "HTML/CSS/JavaScript",
+        "REST APIs & Backend Development"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Programming (Python/Java/C++/JavaScript)",
+          "score": 0,
+          "evidence": "No explicit mention of programming languages like Python, Java, C++, or JavaScript in the resume."
+        },
+        {
+          "skill": "Data Structures and Algorithms",
+          "score": 60,
+          "evidence": "Listed as relevant coursework under Education section."
+        },
+        {
+          "skill": "Object-Oriented Programming (OOP)",
+          "score": 0,
+          "evidence": "No mention of OOP concepts or OOP-based project experience."
+        },
+        {
+          "skill": "Database Management Systems (DBMS/SQL)",
+          "score": 50,
+          "evidence": "DBMS is listed under relevant coursework; specific SQL engines like MySQL/PostgreSQL are not mentioned."
+        },
+        {
+          "skill": "HTML/CSS/JavaScript",
+          "score": 10,
+          "evidence": "Mentioned web application security context, but no development evidence with HTML, CSS, or JavaScript."
+        },
+        {
+          "skill": "REST APIs & Backend Development",
+          "score": 0,
+          "evidence": "No evidence of REST API development or backend frameworks in project descriptions."
+        },
+        {
+          "skill": "Git & GitHub",
+          "score": 40,
+          "evidence": "GitHub profile link included in contact header, though explicit Git usage is not detailed."
+        },
+        {
+          "skill": "Computer Networks",
+          "score": 85,
+          "evidence": "Listed in coursework and heavily detailed across Network Security skills and Network Traffic Analysis Lab project."
+        },
+        {
+          "skill": "Operating Systems",
+          "score": 80,
+          "evidence": "Listed in coursework, along with OS Security skills covering Linux, Windows Security, processes, and system hardening."
+        }
+      ],
+      "recommendations": [
+        "Realign resume target: The current resume is strongly focused on Cybersecurity/SOC Analysis, whereas the job description is for a Software Development / Engineering role.",
+        "Add programming languages: Explicitly list experience with Python, Java, C++, or JavaScript in a technical skills section and demonstrate usage in projects.",
+        "Highlight Web & Backend Development: Build and detail projects demonstrating HTML, CSS, REST APIs, and database integration (e.g., MySQL, PostgreSQL, MongoDB).",
+        "Include OOP & Software Engineering concepts: Emphasize Object-Oriented Programming principles and software development lifecycle (SDLC) experience.",
+        "Expand project section to include software development projects alongside cybersecurity labs."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  },
+  {
+    "id": "0e64d6c7765c45e68d8b1afdd46f63e5",
+    "resume_id": "37a4c6da356e4fb287ecdc7bb68797da",
+    "resume_name": "MADHU_K_S_Professional_AI_ML_Resume.pdf",
+    "job_description": "java",
+    "analyzed_at": "2026-08-25T11:54:37",
+    "analysis_source": "Gemini",
+    "ats_score": 55,
+    "skill_score": 60,
+    "experience_score": 20,
+    "education_score": 50,
+    "result": {
+      "ats_score": 55,
+      "skill_score": 60,
+      "experience_score": 20,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 60,
+        "experience": 20,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 75
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 60,
+          "evidence": "Listed under Technical Skills (Programming: Python, SQL, Java), but no Java-specific projects or professional experience are documented."
+        }
+      ],
+      "recommendations": [
+        "Develop and highlight projects built directly with Java or Java frameworks (such as Spring Boot) to demonstrate practical application.",
+        "Elaborate on specific Java concepts, libraries, or object-oriented design principles in the skills or project section.",
+        "Pursue Java-focused software development internships or entry-level roles to build formal experience."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  },
+  {
+    "id": "d319c93465bc4d67979f34bc356e5a7c",
+    "resume_id": "9a8f9f460a1b46d990e03b17ec0afc42",
+    "resume_name": "FullStack_Developer_Resume.pdf",
+    "job_description": "java , python",
+    "analyzed_at": "2026-08-25T15:56:05",
+    "analysis_source": "Gemini",
+    "ats_score": 61,
+    "skill_score": 55,
+    "experience_score": 50,
+    "education_score": 50,
+    "result": {
+      "ats_score": 61,
+      "skill_score": 55,
+      "experience_score": 50,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 55,
+        "experience": 50,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 70
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java",
+          "Python"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java",
+          "Python"
+        ]
+      },
+      "required_skills": [
+        "Java",
+        "Python"
+      ],
+      "matched_skills": [
+        "Java",
+        "Python"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 50,
+          "evidence": "Listed under Technical Skills > Languages. No detailed project implementations or work experience provided demonstrating practical Java application."
+        },
+        {
+          "skill": "Python",
+          "score": 60,
+          "evidence": "Listed under Technical Skills > Languages and Django under Backend skills. However, projects primarily highlight JavaScript/Node.js stack."
+        }
+      ],
+      "recommendations": [
+        "Add detailed project bullet points or work accomplishments specifically utilizing Java and Python, as the resume currently focuses mostly on Node.js and React.",
+        "Include key frameworks or libraries associated with Java (e.g., Spring Boot) and Python (e.g., Django, FastAPI, Flask, Pandas) to strengthen skill depth.",
+        "Replace bracketed placeholder text (e.g., [Project Title 1], [Company Name], [N]+) with actual quantitative impact metrics and real details."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  },
+  {
+    "id": "b26d1ffcee4747c7b8ea9adfc385d928",
+    "resume_id": "fed8a9b683e849f68e14378390c5dc60",
+    "resume_name": "Resume.pdf",
+    "job_description": "java",
+    "analyzed_at": "2026-08-25T16:44:21",
+    "analysis_source": "Gemini",
+    "ats_score": 38,
+    "skill_score": 40,
+    "experience_score": 20,
+    "education_score": 50,
+    "result": {
+      "ats_score": 38,
+      "skill_score": 40,
+      "experience_score": 20,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 40,
+        "experience": 20,
+        "education": 50,
+        "keywords": 30,
+        "resume_quality": 70
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [
+          "Spring Boot",
+          "Object-Oriented Programming",
+          "RESTful APIs",
+          "Maven/Gradle"
+        ],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 40,
+          "evidence": "Listed under 'Programming' in Technical Skills section, but no projects or practical experience using Java are detailed."
+        }
+      ],
+      "recommendations": [
+        "Add projects or work experience that explicitly demonstrate practical use of Java.",
+        "Detail specific Java frameworks or libraries (such as Spring Boot, Hibernate, or Java EE) if relevant to your coursework or background.",
+        "Tailor your professional summary to highlight Java development rather than focusing predominantly on Python and AI/ML if applying for Java-focused roles."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  },
+  {
+    "id": "fc6c98dbfd934c688b3e116110d10c40",
+    "resume_id": "b1e8bcea2205438882115a13b11d0a75",
+    "resume_name": "FullStack_Developer_Resume.pdf",
+    "job_description": "java",
+    "analyzed_at": "2026-08-25T16:45:12",
+    "analysis_source": "Gemini",
+    "ats_score": 52,
+    "skill_score": 50,
+    "experience_score": 30,
+    "education_score": 50,
+    "result": {
+      "ats_score": 52,
+      "skill_score": 50,
+      "experience_score": 30,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 50,
+        "experience": 30,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 80
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 50,
+          "evidence": "Listed under Technical Skills -> Languages, but no project or practical professional experience explicitly demonstrates Java usage."
+        }
+      ],
+      "recommendations": [
+        "Add detailed bullet points under your experience or projects showing practical usage of Java, frameworks (like Spring Boot), or backend Java development.",
+        "Elaborate on object-oriented programming or Java-specific concepts used in real-world application building."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  },
+  {
+    "id": "8c111f05fccc40cc8e73fd3f25ef3f86",
+    "resume_id": "b1e8bcea2205438882115a13b11d0a75",
+    "resume_name": "FullStack_Developer_Resume.pdf",
+    "job_description": "java",
+    "analyzed_at": "2026-08-25T16:45:44",
+    "analysis_source": "Gemini",
+    "ats_score": 62,
+    "skill_score": 60,
+    "experience_score": 50,
+    "education_score": 50,
+    "result": {
+      "ats_score": 62,
+      "skill_score": 60,
+      "experience_score": 50,
+      "education_score": 50,
+      "score_breakdown": {
+        "skills": 60,
+        "experience": 50,
+        "education": 50,
+        "keywords": 100,
+        "resume_quality": 80
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Java"
+        ],
+        "missing_keywords": [],
+        "important_keywords": [
+          "Java"
+        ]
+      },
+      "required_skills": [
+        "Java"
+      ],
+      "matched_skills": [
+        "Java"
+      ],
+      "missing_skills": [],
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "score": 60,
+          "evidence": "Listed under 'Languages' in the Technical Skills section, but not featured or detailed in any project descriptions or work experience bullets."
+        }
+      ],
+      "recommendations": [
+        "Highlight concrete project or professional experience using Java, such as building backend services with Spring Boot or Java enterprise applications, to demonstrate practical mastery.",
+        "Detail specific Java concepts (e.g., multithreading, OOP design patterns, JVM tuning) used in past projects to strengthen skill depth."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  },
+  {
+    "id": "3bbfeea24ff34a76aa95921217ae347e",
+    "resume_id": "4ea6e893b4044c17a6a55e796a263808",
+    "resume_name": "MADHU_K_S_Professional_AI_ML_Resume.pdf",
+    "job_description": "# Software Developer\n\n## Job Description\n\nWe are looking for a motivated Software Developer to design, develop, test, and maintain reliable software applications. The role involves working with development teams to understand requirements, build new features, troubleshoot technical issues, and improve application performance. The candidate should have strong programming fundamentals, problem-solving skills, and an understanding of software development practices.\n\n## Key Responsibilities\n\n* Develop, test, debug, and maintain software applications.\n* Write clean, efficient, reusable, and maintainable code.\n* Analyze business and technical requirements and convert them into software solutions.\n* Design and implement new features and functionality.\n* Identify and fix bugs and performance issues.\n* Work with databases and develop efficient queries.\n* Integrate REST APIs and third-party services.\n* Perform unit testing and assist with application testing.\n* Use Git and GitHub for version control and collaborative development.\n* Participate in code reviews and follow software development best practices.\n* Collaborate with developers, testers, and other team members.\n* Maintain technical documentation and support application deployment.\n\n## Required Technical Skills\n\n* Programming: Python, Java, C++, or JavaScript.\n* Data Structures and Algorithms.\n* Object-Oriented Programming (OOP).\n* Database Management: MySQL / PostgreSQL / MongoDB.\n* SQL and database concepts.\n* HTML, CSS, and JavaScript fundamentals.\n* REST APIs and basic backend development.\n* Git and GitHub.\n* Debugging and problem-solving.\n* Basic knowledge of Operating Systems, DBMS, and Computer Networks.\n\n## Preferred Skills\n\n* Knowledge of React.js, Node.js, Flask, or Django.\n* Understanding of cloud platforms such as AWS or Azure.\n* Familiarity with Docker and CI/CD concepts.\n* Knowledge of software testing and development methodologies.\n* Experience working with Agile/Scrum teams.\n* Ability to understand and work with existing codebases.\n\n## Educational Qualification\n\n* Bachelor's degree in Computer Science, Information Technology, Artificial Intelligence, or a related field.\n* Freshers and candidates with relevant project experience can apply.\n\n## Soft Skills\n\n* Strong analytical and problem-solving abilities.\n* Good communication and teamwork skills.\n* Ability to learn new technologies quickly.\n* Attention to detail.\n* Time management and ability to meet deadlines.\n* Logical and structured approach to solving technical problems.\n\n## Tools & Technologies\n\n**Languages:** Python, Java, C++, JavaScript\n**Frontend:** HTML, CSS, JavaScript, React.js\n**Backend:** Flask, Django, Node.js\n**Databases:** MySQL, PostgreSQL, MongoDB\n**Version Control:** Git, GitHub\n**Development Tools:** VS Code, Postman, Docker\n**Concepts:** DSA, OOP, DBMS, REST APIs, SDLC, Software Testing",
+    "analyzed_at": "2026-08-25T16:46:25",
+    "analysis_source": "Gemini",
+    "ats_score": 68,
+    "skill_score": 56,
+    "experience_score": 60,
+    "education_score": 90,
+    "result": {
+      "ats_score": 68,
+      "skill_score": 56,
+      "experience_score": 60,
+      "education_score": 90,
+      "score_breakdown": {
+        "skills": 56,
+        "experience": 60,
+        "education": 90,
+        "keywords": 65,
+        "resume_quality": 75
+      },
+      "keyword_analysis": {
+        "matched_keywords": [
+          "Python",
+          "Java",
+          "SQL",
+          "MySQL",
+          "Git",
+          "GitHub",
+          "Flask",
+          "Data Structures & Algorithms",
+          "Operating Systems",
+          "DBMS",
+          "Computer Networks"
+        ],
+        "missing_keywords": [
+          "OOP",
+          "Object-Oriented Programming",
+          "REST APIs",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Docker",
+          "Unit Testing",
+          "Agile"
+        ],
+        "important_keywords": [
+          "Python",
+          "Java",
+          "Data Structures",
+          "OOP",
+          "SQL",
+          "MySQL",
+          "REST APIs",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Git"
+        ]
+      },
+      "required_skills": [
+        "Python",
+        "Java",
+        "Data Structures and Algorithms",
+        "Object-Oriented Programming (OOP)",
+        "MySQL",
+        "SQL",
+        "HTML & CSS",
+        "JavaScript",
+        "REST APIs",
+        "Git & GitHub",
+        "Operating Systems",
+        "DBMS",
+        "Computer Networks"
+      ],
+      "matched_skills": [
+        "Python",
+        "Java",
+        "Data Structures and Algorithms",
+        "MySQL",
+        "SQL",
+        "Git & GitHub",
+        "Operating Systems",
+        "DBMS",
+        "Computer Networks"
+      ],
+      "missing_skills": [
+        "Object-Oriented Programming (OOP)",
+        "HTML & CSS",
+        "JavaScript",
+        "REST APIs"
+      ],
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "score": 85,
+          "evidence": "Listed in Technical Skills, certified via Infosys Springboard, and used in AI project developments."
+        },
+        {
+          "skill": "Java",
+          "score": 60,
+          "evidence": "Listed under Programming skills in the Technical Skills section."
+        },
+        {
+          "skill": "Data Structures and Algorithms",
+          "score": 65,
+          "evidence": "Listed under Problem Solving skills with LeetCode profile link provided."
+        },
+        {
+          "skill": "Object-Oriented Programming (OOP)",
+          "score": 0,
+          "evidence": "Not explicitly mentioned in the resume."
+        },
+        {
+          "skill": "MySQL",
+          "score": 75,
+          "evidence": "Listed under Databases in Technical Skills section."
+        },
+        {
+          "skill": "SQL",
+          "score": 80,
+          "evidence": "Listed in Technical Skills and mentioned in Professional Summary."
+        },
+        {
+          "skill": "HTML & CSS",
+          "score": 25,
+          "evidence": "Implicitly indicated via 'responsive web interface' in projects, but skills are not explicitly listed."
+        },
+        {
+          "skill": "JavaScript",
+          "score": 0,
+          "evidence": "Not mentioned in the resume."
+        },
+        {
+          "skill": "REST APIs",
+          "score": 40,
+          "evidence": "Implied through Flask backend web application development and WhatsApp integration in project descriptions."
+        },
+        {
+          "skill": "Git & GitHub",
+          "score": 85,
+          "evidence": "Listed under Developer Tools with GitHub link provided in contact info."
+        },
+        {
+          "skill": "Operating Systems",
+          "score": 70,
+          "evidence": "Listed under Core Computer Science."
+        },
+        {
+          "skill": "DBMS",
+          "score": 70,
+          "evidence": "Listed under Core Computer Science and Databases."
+        },
+        {
+          "skill": "Computer Networks",
+          "score": 70,
+          "evidence": "Listed under Core Computer Science."
+        }
+      ],
+      "recommendations": [
+        "Explicitly add Object-Oriented Programming (OOP) to your Technical Skills section as it is a core software engineering requirement.",
+        "Include fundamental web technologies like HTML, CSS, and JavaScript under your Technical Skills to demonstrate full-stack capabilities alongside Flask.",
+        "Mention REST APIs explicitly in project bullet points where backend communication or web services were created.",
+        "Elaborate on software development lifecycle practices used in your projects, such as unit testing or version control workflows with Git."
+      ],
+      "analysis_source": "Gemini",
+      "gemini_status": "available"
+    }
+  }
+]
